@@ -9,6 +9,10 @@
 
     <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
 
+    {% if jekyll.environment == 'staging' %}
+    <meta name="robots" content="noindex" />
+    {% endif %}
+
     <link rel="stylesheet"
       href="/assets/css/uswds-theme.css"
       media="screen">
@@ -156,6 +160,11 @@
     </div>
   </div>
 </main>
+
+{% if jekyll.environment == 'staging' %}
+{% include _env-indicator.html %}
+{% endif %}
+
       <script src="/assets/uswds/js/uswds.min.js" async></script>
   </body>
 </html>
