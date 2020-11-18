@@ -43,7 +43,8 @@ At the kick-off it is important for everyone in the room to hear the head of the
 
 Arrive where you are going early, get settled, make some small talk about the office or the weather.
 
-**Introductions**Do not make any assumptions that the stakeholder knows who you are or why you are there. Do assume they are nervous. The person who will be conducting the interview should start introductions and set the tone for the conversation, include the following: 
+**Introductions**
+Do not make any assumptions that the stakeholder knows who you are or why you are there. Do assume they are nervous. The person who will be conducting the interview should start introductions and set the tone for the conversation, include the following: 
 
 - Thank the stakeholder for their time
 - Introduce the team and Discovery as a concept
