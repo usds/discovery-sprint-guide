@@ -124,23 +124,25 @@ Not every question has to sound like a formal interview question. Ask open-ended
 
 Here’s a list of key phrases and approaches that should be helpful:
 
-<u>Their Education:</u> Explore their training and background in the topic *“How did you learn about…?”*, *“What got you interested in…”*, *“Who taught you…?”*, *“How do you know/why do you know...?”* 
+Here’s a list of key phrases and approaches that should be helpful:
 
-<u>History:</u> *“Is this the way you have always done...?”*, *“How or why did it change?”*, *“What did you do before…?”*, *“How did this issue get identified?”*, *“What do you think about that now?”*, *“How have you/others tried to solve this problem in the past?”*
+**Their Education:** Explore their training and background in the topic *“How did you learn about…?”*, *“What got you interested in…”*, *“Who taught you…?”*, *“How do you know/why do you know...?”* 
 
-<u>Sequencing:</u> *“What happens before this…?”*, *“What happens after that…?”* 
+**History:** *“Is this the way you have always done...?”*, *“How or why did it change?”*, *“What did you do before…?”*, *“How did this issue get identified?”*, *“What do you think about that now?”*, *“How have you/others tried to solve this problem in the past?”*
 
-<u>Interactive:</u> *“Could you draw that out for me?”* (hand them a pen and a piece of paper) good for getting org charts, or the person’s perspective on an existing process 
+**Sequencing:** *“What happens before this…?”*, *“What happens after that…?”* 
 
-<u>Definitions:</u> *“Can you say that acronym again?”*, *“We find that everyone means something a little different when they say [“agile”, “cloud”, etc, etc.] can you help me understand what you mean by…?”* 
+**Interactive:** *“Could you draw that out for me?”* (hand them a pen and a piece of paper) good for getting org charts, or the person’s perspective on an existing process 
 
-<u>*Superlatives:*</u> *“What’s the most [inefficient, frustrating, expensive, worst] part of the process?”*, *“What’s the [easiest, best, most fun, fastest] part of your day?”* Note that its a standard user research practice that these types of questions should always be asked in their positive/negative pairings, otherwise it can seem leading if you only ask for *least* without asking for *most* as well. 
+**Definitions:** *“Can you say that acronym again?”*, *“We find that everyone means something a little different when they say [“agile”, “cloud”, etc, etc.] can you help me understand what you mean by…?”* 
 
-<u>Your education:</u> Ask questions you think you already know the answer to and see what happens *“This may be a silly question, but…?”*, *“I never quite understood…”* this will help you curb any assumptions. 
+***Superlatives:*** *“What’s the most [inefficient, frustrating, expensive, worst] part of the process?”*, *“What’s the [easiest, best, most fun, fastest] part of your day?”* Note that its a standard user research practice that these types of questions should always be asked in their positive/negative pairings, otherwise it can seem leading if you only ask for *least* without asking for *most* as well. 
 
-<u>Active listening:</u> *“Just to make sure I understand that…” , “What I heard you say is…”* This helps an interviewee feel heard, and makes sure you are representing them, or what you think they said. 
+**Your education:** Ask questions you think you already know the answer to and see what happens *“This may be a silly question, but…?”*, *“I never quite understood…”* this will help you curb any assumptions. 
 
-<u>Magic Wand:</u> *“If you had a magic wand and all the control, time and unlimited budget, what would you do/change/fix?”*, *“Why did you pick...?”* 
+**Active listening:** *“Just to make sure I understand that…” , “What I heard you say is…”* This helps an interviewee feel heard, and makes sure you are representing them, or what you think they said. 
+
+**Magic Wand:** *“If you had a magic wand and all the control, time and unlimited budget, what would you do/change/fix?”*, *“Why did you pick...?”* 
 
 Remember that you are asking this individual for *their* truth. Even if you know, or suspect, that they are inaccurate, don’t correct them in the moment. It will instantly and dramatically change the trust dynamic between you. 
 
