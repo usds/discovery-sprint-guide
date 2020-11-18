@@ -125,8 +125,6 @@ Not every question has to sound like a formal interview question. Ask open-ended
 
 Here’s a list of key phrases and approaches that should be helpful:
 
-Here’s a list of key phrases and approaches that should be helpful:
-
 **Their Education:** Explore their training and background in the topic *“How did you learn about…?”*, *“What got you interested in…”*, *“Who taught you…?”*, *“How do you know/why do you know...?”* 
 
 **History:** *“Is this the way you have always done...?”*, *“How or why did it change?”*, *“What did you do before…?”*, *“How did this issue get identified?”*, *“What do you think about that now?”*, *“How have you/others tried to solve this problem in the past?”*
