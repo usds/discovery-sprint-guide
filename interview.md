@@ -47,12 +47,14 @@ Arrive where you are going early, get settled, make some small talk about the of
 
 - Thank the stakeholder for their time
 - Introduce the team and Discovery as a concept
-- Define the purpose of the conversation and create a safe space “we are here to understand who you are and what you do”, “we are not here to audit you or your work”, “we will anonymize your answers in the feedback we give”
+- Define the purpose of the conversation and create a safe space *“we are here to understand who you are and what you do”*, *“we are not here to audit you or your work”*, *“we will anonymize your answers in the feedback we give”*
 - Be clear that you are federal employees, not contractors, and that you are there to learn, not to "audit" them or their work
-- Introduce yourselves and your roles “I’ll be the person asking you questions today and my colleague Gregg will be taking notes
-- ”Specify timing. “We’ll be talking until 2pm today and we have a lot we want to cover, I may switch topics abruptly, but that’s only because I have so much to ask you about”
+- Introduce yourselves and your roles *“I’ll be the person asking you questions today and my colleague Gregg will be taking notes"*
+- ”Specify timing. *“We’ll be talking until 2pm today and we have a lot we want to cover, I may switch topics abruptly, but that’s only because I have so much to ask you about”*
 
-**Interview**One team member is asking the questions, the other is the notetaker, stick to those roles as much as you can so the stakeholder doesn’t feel bombarded with questions.
+**Interview**
+
+One team member is asking the questions, the other is the notetaker, stick to those roles as much as you can so the stakeholder doesn’t feel bombarded with questions.
 
 Begin with some easy questions, this helps everyone warm up and builds trust.
 
@@ -69,10 +71,10 @@ Here are two very practical techniques you can use:
 
 Try and end on a high note if you can, especially if you have spent a lot of the previous hour talking about things that are broken. These questions are good to ask as you conclude:
 
-- "If you had a magic wand and could change any single part of this process/system/role what would it be?"
-- "What is your favorite part of your job/your day?"
-- "Who else should we make sure to talk to?"
-- "If we have any follow up questions, is it ok if we come back to you?"
+- *"If you had a magic wand and could change any single part of this process/system/role what would it be?"*
+- *"What is your favorite part of your job/your day?"*
+- *"Who else should we make sure to talk to?"*
+- *"If we have any follow up questions, is it ok if we come back to you?"*
 
 **Your Interview Participants**
 
@@ -112,4 +114,34 @@ If you have a team of 5, use 2 pairs of 2 for interviewing and leave the Lead as
 
 Sometimes, for reasons, you may have to interview someone who the team doesn’t think is relevant to the discovery process. Usually having this person sit down with the sprint team lead for 30 minutes can go a long way towards clearing a path for the rest of the team to keep going about their work.
 
-Stakeholders can be very uncomfortable speaking ground truth in front of a boss or a manager. If this dynamic is happening, this is a place where the team lead can step in with a request for help “Would you mind if we go (on a tour, back to your office, get a coffee, etc) and you can help me understand _________ better?”
+Stakeholders can be very uncomfortable speaking ground truth in front of a boss or a manager. If this dynamic is happening, this is a place where the team lead can step in with a request for help *“Would you mind if we go (on a tour, back to your office, get a coffee, etc) and you can help me understand _________ better?”*
+
+**Questions**
+
+Going into every interview, the interviewer should have a list of 15 or so questions. Identify the top 5 beforehand in case time runs short, or you get too far off topic and you need to reset. Know that it’s OK to ask questions out of order based on what the stakeholder is saying. It is also OK to iterate, add or remove questions as you start to understand things more deeply.
+
+Not every question has to sound like a formal interview question. Ask open-ended questions that will encourage further conversation. You want to keep people talking so that you get the best possible picture of ground-truth. 
+
+Here’s a list of key phrases and approaches that should be helpful:
+
+<u>Their Education:</u> Explore their training and background in the topic *“How did you learn about…?”*, *“What got you interested in…”*, *“Who taught you…?”*, *“How do you know/why do you know...?”* 
+
+<u>History:</u> *“Is this the way you have always done...?”*, *“How or why did it change?”*, *“What did you do before…?”*, *“How did this issue get identified?”*, *“What do you think about that now?”*, *“How have you/others tried to solve this problem in the past?”*
+
+<u>Sequencing:</u> *“What happens before this…?”*, *“What happens after that…?”* 
+
+<u>Interactive:</u> *“Could you draw that out for me?”* (hand them a pen and a piece of paper) good for getting org charts, or the person’s perspective on an existing process 
+
+<u>Definitions:</u> *“Can you say that acronym again?”*, *“We find that everyone means something a little different when they say [“agile”, “cloud”, etc, etc.] can you help me understand what you mean by…?”* 
+
+<u>*Superlatives:*</u> *“What’s the most [inefficient, frustrating, expensive, worst] part of the process?”*, *“What’s the [easiest, best, most fun, fastest] part of your day?”* Note that its a standard user research practice that these types of questions should always be asked in their positive/negative pairings, otherwise it can seem leading if you only ask for *least* without asking for *most* as well. 
+
+<u>Your education:</u> Ask questions you think you already know the answer to and see what happens *“This may be a silly question, but…?”*, *“I never quite understood…”* this will help you curb any assumptions. 
+
+<u>Active listening:</u> *“Just to make sure I understand that…” , “What I heard you say is…”* This helps an interviewee feel heard, and makes sure you are representing them, or what you think they said. 
+
+<u>Magic Wand:</u> *“If you had a magic wand and all the control, time and unlimited budget, what would you do/change/fix?”*, *“Why did you pick...?”* 
+
+Remember that you are asking this individual for *their* truth. Even if you know, or suspect, that they are inaccurate, don’t correct them in the moment. It will instantly and dramatically change the trust dynamic between you. 
+
+If you uncover something serious, like a major security concern, the sprint team can make the decision about what to do after the interview session. Sometimes this is an item for your report (cited anonymously), in rare cases you may want another stakeholder to know about something immediately, and that’s for the team lead, or sometimes even your organization’s leadership to address.
