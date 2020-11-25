@@ -10,7 +10,6 @@ title: Discovery Sprint Guide - When and How Sprints Can Fail
 ---
 
 # When and How Sprints Can Fail
-**Failure: When and how sprints can fail**
 
 While it is rare that we see sprints completely fail, there are definitely some that are more successful than others. Here are some characteristics of the less successful efforts:
 
