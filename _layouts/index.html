@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en-US" id="top">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
@@ -79,7 +79,7 @@
         <button class="usa-menu-btn">Menu</button>
       </div>
       <nav aria-label="Primary navigation" class="usa-nav">
-          <div class="usa-nav__inner"><button class="usa-nav__close"><img src="/assets/img/close.svg" role="img" alt="close"></button>
+          <div class="usa-nav__inner">
             <ul class="usa-nav__primary usa-accordion">
               <li class="usa-nav__primary-item">
                 <a class="usa-nav__link" href="/"><span>Home</span></a>
@@ -90,12 +90,12 @@
               <li class="usa-nav__primary-item">
                 <a class="usa-nav__link" href="/writing/"><span>Writing Guide</span></a>
               </li>
-  <!--           <li class="usa-nav__primary-item">
+  <!--        <li class="usa-nav__primary-item">
                 <a class="usa-nav__link" href="javascript:void(0)"><span>Case Studies</span></a>
-              </li>
-            </ul>
+              </li> -->
+            </ul> 
           </div>
-      </nav> --> 
+      </nav>
     </header>
   <!-- <li class="usa-nav__primary-item">
         <button class="usa-accordion__button usa-nav__link  usa-current" aria-expanded="false" aria-controls="extended-nav-section-one">
@@ -162,6 +162,7 @@
     </div>
   </div>
 </main>
+{% include _footer.html %}
 
 {% if jekyll.environment == 'staging' %}
 {% include _env-indicator.html %}
