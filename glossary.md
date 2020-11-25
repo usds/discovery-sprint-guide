@@ -10,9 +10,9 @@ title: Discovery Sprint Guide - Glossary of Terms
 ---
 
 # Glossary of terms
-**Agency:** most of the work that USDS does is done at federal agencies (Department of Health and Human Services, or The Social Security Administration are examples) for the purposes of this document we are using the term “organization” as a stand-in for federal agency to represent the place where the sprint is happening
+**Agency:** Most of the work that USDS does is done at federal agencies (Department of Health and Human Services, or The Social Security Administration are examples) for the purposes of this document we are using the term “organization” as a stand-in for federal agency to represent the place where the sprint is happening
 
-**Air cover:** the highest ranking person at the place where the sprint is happening. In the private sector this would be the president of the company or a C-level executive, at a Federal Agency they may be a Secretary, Administrator, Director, or a Deputy of one of those things. Sometimes also referred to as “top cover”
+**Air cover:** The highest ranking person at the place where the sprint is happening. In the private sector this would be the president of the company or a C-level executive, at a Federal Agency they may be a Secretary, Administrator, Director, or a Deputy of one of those things. Sometimes also referred to as “top cover”
 
 **Customers:** This is a broad term used in the private sector to typically mean “someone who is paying money for the goods or services your company is providing” in most cases where the government is providing something to the public, that service is free, so we more commonly use the term “end user” 
 
@@ -20,22 +20,22 @@ title: Discovery Sprint Guide - Glossary of Terms
 
 **North Star:** The guiding principle or goal for your sprint or the key measure of your team’s success. This should be set early in the sprint and referred back to as the work continues. 
 
-**Organization:** for the purposes of this document, we are using “organization” to broadly mean the place where the sprint is happening. At USDS this usually means an agency in the federal government. The Department of Education, the Small Business Administration, or the Department of Homeland Security are all examples of places that we have done discovery sprints. However we know not all readers will be working at the federal level, so this may mean you are working with a state, a non-profit, an NGO, or some other civic entity.
+**Organization:** For the purposes of this document, we are using “organization” to broadly mean the place where the sprint is happening. At USDS this usually means an agency in the federal government. The Department of Education, the Small Business Administration, or the Department of Homeland Security are all examples of places that we have done discovery sprints. However we know not all readers will be working at the federal level, so this may mean you are working with a state, a non-profit, an NGO, or some other civic entity.
 
-**Paperwork Reduction Act (PRA):** a law governing how federal agencies collect information from the American public. They do a nice job of explaining it here: https://pra.digital.gov/  Sometimes this is cited as a legal barrier against talking to end users during research and interviewing stages of a sprint. It’s normal to be nervous around this topic, but there is usually a way through to be found. In fact, we have always found a path forward in the many sprints that USDS has done over the last 6 years.
+**Paperwork Reduction Act (PRA):** A law governing how federal agencies collect information from the American public. They do a nice job of explaining it here: https://pra.digital.gov/  Sometimes this is cited as a legal barrier against talking to end users during research and interviewing stages of a sprint. It’s normal to be nervous around this topic, but there is usually a way through to be found. In fact, we have always found a path forward in the many sprints that USDS has done over the last 6 years.
 
-**Partners:** individuals within an organization that work with the sprint team; they may also be considered a stakeholder of the project
+**Partners:** Individuals within an organization that work with the sprint team; they may also be considered a stakeholder of the project
 
 **PII/PHI:** Personally identifiable information and personal health information
 
-**Stakeholder:** can have several meanings:
+**Stakeholder:** Can have several meanings:
 1. The organization or agency where you are conducting the discovery sprint
 2. An individual person who is not on the sprint team, but who plays a key role or responsibility for the execution or outcome of the sprint. 
 3. A primary stakeholder is usually the highest ranking individual (“air cover”) at the place where the sprint is happening
 
-**Top cover:** see “Air cover”
+**Top cover:** See “Air cover”
 
-**User or End User:** broadly used to mean the general public or a person on the receiving end of a government service. However, in the case of a Discovery Sprint, “end user” may refer to the government employee who is using internal software in order to provide a service to a citizen. For example, if the Discovery Sprint is looking into how the interface of a veteran’s telephone hotline functions, then the call center operator will be considered a user as well as the veteran who is calling.
+**User or End User:** Broadly used to mean the general public or a person on the receiving end of a government service. However, in the case of a Discovery Sprint, “end user” may refer to the government employee who is using internal software in order to provide a service to a citizen. For example, if the Discovery Sprint is looking into how the interface of a veteran’s telephone hotline functions, then the call center operator will be considered a user as well as the veteran who is calling.
 
 # Other Resources
 * <a href="https://ux-guide.18f.gov/" target="_blank">18F UX Guide</a>
