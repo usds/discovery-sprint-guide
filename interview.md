@@ -99,7 +99,7 @@ When planning and conducting government user research, it is best to plan for th
 
 *Assumption*: You will not be able to record interview sessions in any way
 
-- See: PRA guidance and know the policies upfront 
+- See <a href="">PRA guidance</a> and know the policies upfront 
 
 - You and your stakeholders have a responsibility to protect any personally identifiable information (PII) that you may come across as part of your interviews. 
 
