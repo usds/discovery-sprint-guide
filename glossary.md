@@ -51,3 +51,7 @@ title: Discovery Sprint Guide - Glossary of Terms
 * <a href="https://ncoc.org/project-redesign/" target="_blank">NCOC Project Resdesign</a>
 * <a href="https://www.linkedin.com/pulse/government-discovery-sprint-playbook-how-lessons-learned-kathy-pham/" target="_blank">Previous Version of USDS Sprint Documentation</a>
 * <a href="https://thenounproject.com/" target="_blank">The Noun Project</a>
+
+# Acknowledgements
+
+Version One of this guide was authored by Jenn Noinaj and Kat Jurick. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hardwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
