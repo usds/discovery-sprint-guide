@@ -40,11 +40,11 @@ At USDS we do not have any teams that exist to only run sprints, instead we staf
 
 Once your team is staffed and decided on, you should get together before the kickoff. Get to know each other and who is good at what, decide what tools you will use for communication, swap contact info, etc. By the time you arrive at the kickoff meeting together you should appear to your partners and stakeholders as a cohesive and collaborative team with a strong leader.
 
-  -Team cohesion: 
+  - Team cohesion: 
 
-  -Practice your elevator pitch: the team comes up with a consistent message of who the team is and why you’re there
+  - Practice your elevator pitch: the team comes up with a consistent message of who the team is and why you’re there
 
-  -Decide how you will explain what you do: many folks in the government will not know exactly what a product manager, UX designer, site reliability engineer, and so on do. How can you explain this to them without getting too technical? 
+  - Decide how you will explain what you do: many folks in the government will not know exactly what a product manager, UX designer, site reliability engineer, and so on do. How can you explain this to them without getting too technical? 
 
 **Identifying your partners**
 
