@@ -11,19 +11,15 @@ title: Discovery Sprint Guide - Preparing for the Sprint
 
 # Preparing for the Sprint
 
-**Problem Statement**
+**Problem Statement**Before the sprint officially begins at the kickoff, someone will want to engage with the organization where the work will be done in order to develop a clear problem statement, identify stakeholders to work with, and set expectations. 
 
-Before the sprint officially begins at the kickoff, someone will want to engage with the organization where the work will be done in order to develop a clear problem statement, identify stakeholders to work with, and set expectations. 
-
-**Sprint Lead**
-
-Identify your sprint team lead first since that person will serve as the main point of contact with the organization’s leadership. Sprint team leads are responsible for preparing for the sprint.
+**Sprint Lead**Identify your sprint team lead first since that person will serve as the main point of contact with the organization’s leadership. Sprint team leads are responsible for preparing for the sprint.
 
 We break the rest down into three main components: staffing, planning, and the kick-off. The sprint kick-off gets the organization and sprint team together to understand the organization’s questions and sets expectations for the duration of the sprint. 
 
 During these pre-meetings, work with your key stakeholders to come up with a concrete description of the problem the organization is facing. This helps with scoping the work for the sprint. A good problem statement will include a description of the people at the receiving end of the tool or service, what they’re trying to accomplish, and the implications for not addressing any known issues (number of people affected and how severely, budget concerns, etc). The problem statement should center around describing the issue rather than outlining any proposed solutions. The purpose of a discovery sprint is a new perspective, so it is entirely possible that the problems identified at this stage may not end up being the same as what the discovery sprint reports back at the end. 
 
-###Staffing
+### Staffing
 Because the intent of a discovery sprint is to put fresh eyes on an issue, the Sprint team should be made up of people who do not bear direct responsibility for solving any uncovered issues. At USDS, Sprint staffing is done by the leadership team. A call will go out for volunteers who have an interest in participating in a sprint in general, a specific needed skill, or the upcoming sprint topic specifically. Due to other project commitments and responsibilities, it can sometimes be challenging to pull a team together quickly, but as a rule we try not to begin a sprint until the team is fully staffed. 
 
 The sprint team is the heart of a successful sprint. Sprint teams are necessarily small, usually 4-6 people. Sprint teams need to move quickly, often including actual travel requirements and the larger the team, the more communication and coordination is needed. The makeup of a particular team will depend on the specifics of the problem they will be solving. A typical team has the following skillsets:
