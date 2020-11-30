@@ -11,9 +11,9 @@ title: Discovery Sprint Guide - Preparing for the Sprint
 
 # Preparing for the Sprint
 
-**Problem Statement**Before the sprint officially begins at the kickoff, someone will want to engage with the organization where the work will be done in order to develop a clear problem statement, identify stakeholders to work with, and set expectations. 
+**Problem Statement**: Before the sprint officially begins at the kickoff, someone will want to engage with the organization where the work will be done in order to develop a clear problem statement, identify stakeholders to work with, and set expectations. 
 
-**Sprint Lead**Identify your sprint team lead first since that person will serve as the main point of contact with the organization’s leadership. Sprint team leads are responsible for preparing for the sprint.
+**Sprint Lead**: Identify your sprint team lead first since that person will serve as the main point of contact with the organization’s leadership. Sprint team leads are responsible for preparing for the sprint.
 
 We break the rest down into three main components: staffing, planning, and the kick-off. The sprint kick-off gets the organization and sprint team together to understand the organization’s questions and sets expectations for the duration of the sprint. 
 
