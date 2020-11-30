@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: writing
 permalink: /writing/
 # section: hiring-phases
 title: Discovery Sprint Guide - Writing the Report

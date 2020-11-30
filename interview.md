@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: interview
 permalink: /interview/
 # section: hiring-phases
 title: Discovery Sprint Guide - Conducting Interviews
