@@ -20,7 +20,7 @@ There’s never a bad time to run a discovery sprint, though we typically see th
 * When an existing tool, service or product is actively broken, or no longer meeting current or aspirational technology standards
 * When key stakeholders change and a fresh perspective is useful to plan for or prioritize a new roadmap
 
-### Example of what a sprint might look like
+### Scenario of what a sprint might look like
 Let’s take the example of a federal agency somewhere. Your discovery team has been brought in because the process of filing paperwork to ______________ is “slow”. One part of the Agency ecosystem is on the verge of spending 6 million dollars on more servers in an effort to solve this problem. On the face of it, this is a pretty cut and dried technology problem. But the agency leadership wants a gut check from a neutral observer. The discovery team spends time talking with the office that is making the decision to spend the money but while they are there they also spend 2 weeks talking to the offices that are both up and downstream from the group that has brought them in. 
 
 It turns out that the team that is filing the paperwork at the beginning phase of the process waits 1 week for a response, and then if they haven’t gotten an answer, they refile the paperwork again to “move the request to the top of the pile” because the consequences of a paperwork delay is ______. Then the Discovery team goes and spends a couple of days in the office that is receiving the paperwork. This group overhauled their process 9 months ago and now they are batch processing requests on 3 days a week. This has improved their processing time by a lot and they are extremely proud of this. They don’t know why they seem to get so many duplicate requests now though. 
