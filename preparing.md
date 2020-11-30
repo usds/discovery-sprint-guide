@@ -58,19 +58,19 @@ The team lead should work with the stakeholder organization to identify the foll
 
 **Administrative Contact:** Someone with time dedicated to supporting the effort that the discovery team can interact with on a day-to-day basis to answer questions or get assistance with building access, booking rooms, office supplies, IT resources and other time-sensitive logistical matters. Access to a company directory and calendars is important for keeping a sprint from running beyond the allotted time frame. It is helpful if this person works for a senior stakeholder and is often tied to the Senior Executive Sponsor.
 
-**Topic** **Stakeholders****/Subject Matter Experts:** An initial list of people inside the organization or adjacent to it who currently own a piece of the problem or the solution. This list will expand over the course of the sprint, as you uncover other people to talk to.
+**Topic** **Stakeholders/Subject Matter Experts:** An initial list of people inside the organization or adjacent to it who currently own a piece of the problem or the solution. This list will expand over the course of the sprint, as you uncover other people to talk to.
 
-**End Users****: the actual humans who touch or who are affected by the tools/services in question. Inside the organization “users” can refer to the internal team using enterprise tools as well as the public audience who will ultimately receive the services those tools provide.
+**End Users**: the actual humans who touch or who are affected by the tools/services in question. Inside the organization “users” can refer to the internal team using enterprise tools as well as the public audience who will ultimately receive the services those tools provide.
 
-**Planning**
+### Planning
 
-###Sprint Logistics
+### Sprint Logistics
 
 There are a number of arrangements and contacts that need to happen ahead of time to make a sprint run smoothly. The sprint team lead should work with the organization’s partners to identify someone who can help coordinate logistics for the team. 
 
-Schedule
+### Schedule
 
-Timing:** Before you get too far into planning, make sure to discuss actual calendar dates with your primary stakeholders. Scheduling too close to a big annual meeting, the beginning or end of the budget cycle, or between Thanksgiving and the end of December when many people take extended vacation can kill a sprints momentum.
+**Timing:** Before you get too far into planning, make sure to discuss actual calendar dates with your primary stakeholders. Scheduling too close to a big annual meeting, the beginning or end of the budget cycle, or between Thanksgiving and the end of December when many people take extended vacation can kill a sprints momentum.
 
 **Availability:** The entire sprint team should make sure that they have at least three consecutive weeks to dedicate full-time to the sprint. The first two weeks are often used for research with one week for follow-ups and writing, and another for final sprint delivery and readouts to stakeholders. Communicate the team’s timeline to the organization’s partners to ensure they are aligned and know what to expect. Keep a shared team calendar if possible.
 
@@ -78,13 +78,13 @@ Timing:** Before you get too far into planning, make sure to discuss actual cale
 
 **Contacts:** Work with the organization’s leadership to determine who would be best to talk to during the sprint. Ask for a high-level org chart annotated with contact information so the team can understand how the organization is structured. Note that in government the published versions of org charts are often out of date.
 
-**Interviews:** Start by setting up initial interviews with critical stakeholders early on in the sprint. Scheduling often needs to happen well in advance since it can be hard to get on their calendars. Additionally, before the start of the sprint, schedule some user interviews for the first few days of the sprint so you can hit the ground running when it begins. As the sprint progresses, you’ll continue to add to your interview calendar as you uncover more people to talk to. [see appendix __ for more about interviewing]
+**Interviews:** Start by setting up initial interviews with critical stakeholders early on in the sprint. Scheduling often needs to happen well in advance since it can be hard to get on their calendars. Additionally, before the start of the sprint, schedule some user interviews for the first few days of the sprint so you can hit the ground running when it begins. As the sprint progresses, you’ll continue to add to your interview calendar as you uncover more people to talk to. [see for more about interviewing]
 
 **Final briefing:** Begin the process of scheduling the final briefing meeting, where you’ll present your results, as soon as you can. This helps immensely with a sense of urgency towards the conclusion of the research, and the report delivery, and can organically help prevent scope creep.
 
 **Access**
 
-*Building Access:** Identify where the organization works. If there are multiple locations, get a physical map of where the organization is located to help everyone determine where they need to go. Everyone on the team should be able to access the organization’s buildings. If interview locations are far from each other, you can try to be efficient for planning your interviews.
+**Building Access:** Identify where the organization works. If there are multiple locations, get a physical map of where the organization is located to help everyone determine where they need to go. Everyone on the team should be able to access the organization’s buildings. If interview locations are far from each other, you can try to be efficient for planning your interviews.
 
 **Workspace:** When working on-site it is helpful to obtain at least two rooms where the organization is located – one room for the team to work out of and one or more another room to conduct interviews if needed. The team room is typically a large conference room where everyone can fit. This space should be reserved for the duration of the sprint plus a few extra days, and should have the appropriate supplies: network access, whiteboards, post-its, paper, markers, etc. 
 
@@ -96,6 +96,6 @@ Timing:** Before you get too far into planning, make sure to discuss actual cale
 
 **Software / Tools**
 
-*Communication:** Make sure everyone on the team has everyone else’s phone numbers and emails. Determine what tools the sprint team will use to communicate with one another and ensure that all sprint team members can access those tools. 
+**Communication:** Make sure everyone on the team has everyone else’s phone numbers and emails. Determine what tools the sprint team will use to communicate with one another and ensure that all sprint team members can access those tools. 
 
 **Document repository:** Many sprint teams use Github to keep project documents. If so, create a team folder in the appropriate Github repo for the sprint team. If possible, some teams might be able to use Google Suite. Be careful about what happens to any sensitive information you may acquire, not only for the duration of the sprint, but what happens to it after.
