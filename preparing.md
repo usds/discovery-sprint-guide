@@ -22,9 +22,12 @@ During these pre-meetings, work with your key stakeholders to come up with a con
 We break the rest of the preparation stage into three main components: staffing, planning, and the kick-off. The sprint kick-off gets the organization and sprint team together to understand the organization’s questions and sets expectations for the duration of the sprint.
 
 ### Staffing
-Because the intent of a discovery sprint is to put fresh eyes on an issue, the Sprint team should be made up of people who do not bear direct responsibility for solving any uncovered issues. At USDS, Sprint staffing is done by the leadership team. A call will go out for volunteers who have an interest in participating in a sprint in general, a specific needed skill, or the upcoming sprint topic specifically. Due to other project commitments and responsibilities, it can sometimes be challenging to pull a team together quickly, but as a rule we try not to begin a sprint until the team is fully staffed. 
+Because the intent of a discovery sprint is to put fresh eyes on an issue, a discovery sprint team should be made up of people who do not bear direct responsibility for solving any uncovered issues. 
 
-The sprint team is the heart of a successful sprint. Sprint teams are necessarily small, usually 4-6 people. Sprint teams need to move quickly, often including actual travel requirements and the larger the team, the more communication and coordination is needed. The makeup of a particular team will depend on the specifics of the problem they will be solving. A typical team has the following skillsets:
+> At USDS, Sprint staffing is done by the leadership team. A call will go out for volunteers who have an interest in participating in a sprint in general, a specific needed skill, or the upcoming sprint topic specifically. Due to other project commitments and responsibilities, it can sometimes be challenging to pull a team together quickly, but as a rule we try not to begin a sprint until the team is fully staffed.  
+
+The sprint team is the heart of a successful sprint. Sprint teams are necessarily small, usually 4-6 people. Sprint teams need to move quickly, often including actual travel requirements and the larger the team, the  more communication and coordination is needed. The makeup of a particular team will depend on the specifics of the problem they will be solving. A typical team has the following skillsets:
+
 
 - Project leadership (the sprint lead)
 - Product management
