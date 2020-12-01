@@ -49,25 +49,23 @@ Once your team is staffed and decided on, you should get together before the kic
 
   - Decide how you will explain what you do: many folks in the government will not know exactly what a product manager, UX designer, site reliability engineer, and so on do. How can you explain this to them without getting too technical? 
 
-### Identifying your partners
+### Identifying your Partners
 
 It is important to note that sprint team members are often experts in their skill sets but not necessarily in the space being researched (the stakeholder organization or their challenges). It is imperative that, as the sprint begins, the team is able to partner with individuals at the organization that are subject matter experts to ensure the right solutions are being proposed.
 
 The team lead should work with the stakeholder organization to identify the following people:
 
-**Senior Executive Sponsor:** They provide high-level leadership support for the effort. They receive the Sprint Deliverables, and will be instrumental in providing top-level support and often the responsibility for the solution and implementation efforts that will potentially follow. We often use the term “air cover” or “top cover” for this stakeholder.
+- **Senior Executive Sponsor:** They provide high-level leadership support for the effort. They receive the Sprint Deliverables, and will be instrumental in providing top-level support and often the responsibility for the solution and implementation efforts that will potentially follow. We often use the term “air cover” or “top cover” for this stakeholder.
 
-**Sprint Champion:** The sprint team’s key day-to-day partner within the organization that’s tasked with making this effort successful. Their work is affected by the problems that the Discovery Sprint team will be investigating.
+- **Sprint Champion:** The sprint team’s key day-to-day partner within the organization that’s tasked with making this effort successful. Their work is affected by the problems that the Discovery Sprint team will be investigating.
 
-**Administrative Contact:** Someone with time dedicated to supporting the effort that the discovery team can interact with on a day-to-day basis to answer questions or get assistance with building access, booking rooms, office supplies, IT resources and other time-sensitive logistical matters. Access to a company directory and calendars is important for keeping a sprint from running beyond the allotted time frame. It is helpful if this person works for a senior stakeholder and is often tied to the Senior Executive Sponsor.
+- **Administrative Contact:** Someone with time dedicated to supporting the effort that the discovery team can interact with on a day-to-day basis to answer questions or get assistance with building access, booking rooms, office supplies, IT resources and other time-sensitive logistical matters. Access to a company directory and calendars is important for keeping a sprint from running beyond the allotted time frame. It is helpful if this person works for a senior stakeholder and is often tied to the Senior Executive Sponsor.
 
-**Topic** **Stakeholders/Subject Matter Experts:** An initial list of people inside the organization or adjacent to it who currently own a piece of the problem or the solution. This list will expand over the course of the sprint, as you uncover other people to talk to.
+- **Topic Stakeholders/Subject Matter Experts:** An initial list of people inside the organization or adjacent to it who currently own a piece of the problem or the solution. This list will expand over the course of the sprint, as you uncover other people to talk to.
 
-**End Users**: the actual humans who touch or who are affected by the tools/services in question. Inside the organization “users” can refer to the internal team using enterprise tools as well as the public audience who will ultimately receive the services those tools provide.
+- **End Users**: the actual humans who touch or who are affected by the tools/services in question. Inside the organization “users” can refer to the internal team using enterprise tools as well as the public audience who will ultimately receive the services those tools provide.
 
-### Planning
-
-### Sprint Logistics
+### Planning and Sprint Logistics
 
 There are a number of arrangements and contacts that need to happen ahead of time to make a sprint run smoothly. The sprint team lead should work with the organization’s partners to identify someone who can help coordinate logistics for the team. 
 
