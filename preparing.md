@@ -41,19 +41,17 @@ Some individuals may possess several of these skills. For example, the sprint le
 
 > At USDS we do not have any teams that exist to only run sprints, instead we staff discovery sprints with people who are rolling off larger or long-term projects. Doing this allows team members to focus on new work quickly. It’s also an opportunity for cross-pollination by bringing together a needed set of skills to make up a strong sprint team. We also keep in mind that if a sprint turns into a longer-term engagement with the organization, we want to staff folks to work on things that they are passionate about
 
-**Team Meeting**
+### Team Cohesion
 
 Once your team is staffed and decided on, you should get together before the kickoff. Get to know each other and who is good at what, decide what tools you will use for communication, swap contact info, etc. By the time you arrive at the kickoff meeting together you should appear to your partners and stakeholders as a cohesive and collaborative team with a strong leader.
-
-  - Team cohesion: 
 
   - Practice your elevator pitch: the team comes up with a consistent message of who the team is and why you’re there
 
   - Decide how you will explain what you do: many folks in the government will not know exactly what a product manager, UX designer, site reliability engineer, and so on do. How can you explain this to them without getting too technical? 
 
-**Identifying your partners**
+### Identifying your partners
 
-It is also important to note that sprint team members are often experts in their skill sets but not necessarily in the space being researched (the stakeholder organization or their challenges). It is imperative that, as the sprint begins, the team is able to partner with individuals at the organization that are subject matter experts to ensure the right solutions are being proposed.
+It is important to note that sprint team members are often experts in their skill sets but not necessarily in the space being researched (the stakeholder organization or their challenges). It is imperative that, as the sprint begins, the team is able to partner with individuals at the organization that are subject matter experts to ensure the right solutions are being proposed.
 
 The team lead should work with the stakeholder organization to identify the following people:
 
