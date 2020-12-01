@@ -39,7 +39,7 @@ The sprint team is the heart of a successful sprint. Sprint teams are necessaril
 
 Some individuals may possess several of these skills. For example, the sprint lead might be a designer, or the policy team member may also be a software engineer. The important thing is to ensure each skill is represented by at least one person, that said, we acknowledge that staffing is rarely perfect due to staff availability, so there may need to be some hard choices at this stage.
 
-At USDS we do not have any teams that exist to only run sprints, instead we staff discovery sprints with people who are rolling off larger or long-term projects. Doing this allows team members to focus on new work quickly. It’s also an opportunity for cross-pollination by bringing together a needed set of skills to make up a strong sprint team. We also keep in mind that if a sprint turns into a longer-term engagement with the organization, we want to staff folks to work on things that they are passionate about
+> At USDS we do not have any teams that exist to only run sprints, instead we staff discovery sprints with people who are rolling off larger or long-term projects. Doing this allows team members to focus on new work quickly. It’s also an opportunity for cross-pollination by bringing together a needed set of skills to make up a strong sprint team. We also keep in mind that if a sprint turns into a longer-term engagement with the organization, we want to staff folks to work on things that they are passionate about
 
 **Team Meeting**
 
