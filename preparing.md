@@ -111,16 +111,6 @@ We include this first meeting as part of the planning stage because it needs to 
 It is important to use the sprint kick-off to set sprint expectations and outcomes for the organization, stressing to them that the team is there to collaborate with them and provide an outside, neutral, 3rd-party assessment. You should help the organization understand that the team is engaging for a short amount of time and will use that time to meet with as many stakeholders as possible. What makes sprints so successful is that the result of the sprint is not an “audit” but objective observation followed by actionable information and recommendations for the organization’s leadership to address the items they’ve identified.
 
 Here is an example agenda for the sprint kick-off:
-The Kick-off Meeting
-The kick-off meeting is the first time a large group comes together for the discovery sprint, it usually takes place at the stakeholder organization in-person (to the extent possible). In the room are the key stakeholders, all members of the discovery sprint, and most importantly the executive sponsor from the organization. Ideally, a kick-off is 90-120 minutes long to give time for both planning and discussion. The kick-off lets the sponsors meet the discovery team and to describe, in their own words, their current situation and refine the problem statement. This is meant to be a back and forth conversation, not a presentation-type meeting.
-
-We include this first meeting as part of the planning stage because it needs to happen before the sprint begins. At the kick-off it is important for everyone in the room to hear the head of the organization reiterate that stakeholder interviews will be happening, that they are a priority, and that the effort is supported from the top of the organization. 
-
-A sample kick-off agenda
-
-It is important to use the sprint kick-off to set sprint expectations and outcomes for the organization, stressing to them that the team is there to collaborate with them and provide an outside, neutral, 3rd-party assessment. You should help the organization understand that the team is engaging for a short amount of time and will use that time to meet with as many stakeholders as possible. What makes sprints so successful is that the result of the sprint is not an “audit” but objective observation followed by actionable information and recommendations for the organization’s leadership to address the items they’ve identified.
-
-Here is an example agenda for the sprint kick-off:
 - Introductions
 - Organization’s description of the problem
 - Review of the “First 48-hours” proposed schedule of interviews
