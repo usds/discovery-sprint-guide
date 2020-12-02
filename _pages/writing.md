@@ -4,11 +4,15 @@ title: Discovery Sprint Guide - Writing the Report
 permalink: /writing/
 sidenav: writing
 sticky_sidenav: true
-
-# section: hiring-phases
-# phase: getting-started
-# sub-phase-order: 050
-# intro: 
+subnav:
+  - text: Brainstorm and outline
+    href: '#brainstorm-and-outline'
+  - text: Draft and write
+    href: '#draft-and-write'
+  - text: Edit and revise
+    href: '#edit-and-revise'
+  - text: Review and polish
+    href: '#review-and-polish'
 ---
 
 # Writing the report

@@ -26,3 +26,11 @@ guide:
     href: /remote/
   - text: Glossary & other resources
     href: /glossary/
+
+interview:
+  - text: Interview guide
+    href: /interview/
+
+writing:
+  - text: Writing guide
+    href: /writing/

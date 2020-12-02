@@ -4,11 +4,11 @@ title: Discovery Sprint Guide - Conducting Interviews
 permalink: /interview/
 sidenav: interview
 sticky_sidenav: true
-
-# section: hiring-phases
-# phase: getting-started
-# sub-phase-order: 050
-# intro: 
+subnav:
+  - text: Process
+    href: '#interview-process'
+  - text: Logistics
+    href: '#interview-logistics'
 ---
 
 # **Conducting stakeholder interviews**
@@ -45,7 +45,7 @@ At the kick-off it is important for everyone in the room to hear the head of the
 
 **DO:** Whenever possible, stick to a ratio of one stakeholder to two sprint team members per interview. Multiple stakeholders can lead to groupthink, or the loudest or highest ranking stakeholder doing all the talking. No one should conduct an in-person stakeholder interview alone, and more than 2 people can be very intimidating (and don’t fit well in a cubicle). If the team is 5 people that makes it easy for two sets of interviewers to be working simultaneously, with the team Lead free to keep an eye on the schedule, the stakeholders and any other moving parts.
 
-**Interview Process**
+### Interview Process
 
 Arrive where you are going early, get settled, make some small talk about the office or the weather.
 
@@ -60,7 +60,6 @@ Do not make any assumptions that the stakeholder knows who you are or why you ar
 - ”Specify timing. *“We’ll be talking until 2pm today and we have a lot we want to cover, I may switch topics abruptly, but that’s only because I have so much to ask you about”*
 
 **Interview**
-
 One team member is asking the questions, the other is the notetaker, stick to those roles as much as you can so the stakeholder doesn’t feel bombarded with questions.
 
 Begin with some easy questions, this helps everyone warm up and builds trust.
@@ -75,7 +74,6 @@ Here are two very practical techniques you can use:
 - When a stakeholder stops talking, the interviewer should pause and count to ten in their head before continuing. Sometimes the stakeholder might be thinking about their answer and you don’t want to rush them, or interrupt their flow. 
 
 **Wrap up**
-
 Try and end on a high note if you can, especially if you have spent a lot of the previous hour talking about things that are broken. These questions are good to ask as you conclude:
 
 - *"If you had a magic wand and could change any single part of this process/system/role what would it be?"*
@@ -84,15 +82,13 @@ Try and end on a high note if you can, especially if you have spent a lot of the
 - *"If we have any follow up questions, is it ok if we come back to you?"*
 
 **Your Interview Participants**
-
 Approach each person that you interview as a subject matter expert in their work. They have likely been at their job for a while, for career government employees this could easily mean 15 - 20 years. They will have good ideas about what’s working and what isn’t. Give them the space and the opportunity to share in their own words. “*How did you come up with this process or solution*?” is a better framing than “*Why don’t you just do* ________ ?”
 
 It’s very possible that you are not the first team that has shown up in their office under the directive to help solve a problem, or help them “think differently”. Give your stakeholders the opportunity to talk about what has been tried before, and how they individually thought it went. 
 
 Pay careful attention to your body language, and the body language of the stakeholder you are speaking with. If you are nervous, they will pick up on that and it will make them nervous, so aim for projecting competence and curiosity. You are always sending unconscious signals: leaning forward or back, arms and legs crossed or uncrossed, eye contact, frowning or smiling, it all matters in the room. Keep reading them and adjusting as you go.
 
-**Logistics**
-
+### Interview Logistics
 When planning and conducting government user research, it is best to plan for the simplest experience possible. Use these very real world scenarios to help you plan: 
 
 *Assumption*: There will be no wifi or internet access where you are, and there may not even not be cell service
