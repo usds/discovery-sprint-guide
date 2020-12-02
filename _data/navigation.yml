@@ -1,0 +1,28 @@
+# _data/navigation.yml
+
+primary:
+  - text: Home
+    href: /
+    name: guide
+  - text: Interview Guide
+    href: /interview/
+    name: interview-guide
+  - text: Writing Guide
+    href: /writing/
+    name: writing-guide
+
+guide:
+  - text: About this guide
+    href: /
+  - text: Preparing for a sprint
+    href: /preparing/
+  - text: Conducting the sprint
+    href: /conducting/
+  - text: Delivering the sprint findings
+    href: /delivering/
+  - text: Wrapping up the sprint
+    href: /wrapping-up/
+  - text: Running remote sprints
+    href: /remote/
+  - text: Glossary & other resources
+    href: /glossary/

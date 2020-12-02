@@ -1,5 +1,21 @@
-<nav class="chp-phasenav" aria-label="Secondary navigation">
-    <h4 class="chp-phasenav__title">
+<nav aria-label="Secondary navigation">
+    <ul class="usa-sidenav">
+        {% for link in include.links %}
+            {% assign _href = link.href %}
+            {% assign _current = false %}
+            {% if link.href == page.url %}
+                {% assign _current = true %}
+            {% endif %}
+        <li class="usa-sidenav__item">
+            <a href="{{ site.baseurl }}{{ link.href }}" {% if _current %} class="usa-current" {% endif %}>
+                {{ link.text }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
+ 
+    <!--  <h4 class="chp-phasenav__title">
       {% assign title_words = include.title | split: '-' %}
       {% for word in title_words %}
         {{ word | capitalize }}
@@ -19,42 +35,10 @@
         {% if link.subnav and _current %}
           {% assign _subnav = link.subnav %}
         <ul class="usa-sidenav__sublist">
-          {% include subnav.html links=_subnav %}
+          {% include _subnav.html links=_subnav %}
         </ul>
         {% endif %}
       </li>
       {% endfor %}
     </ul>
-  </nav>
-
-  <div class="usa-section">
-    <div class="grid-container">
-      <div class="grid-row grid-gap">
-        <div class="usa-layout-docs-sidenav desktop:grid-col-3">
-          <nav aria-label="Secondary navigation">
-            <ul class="usa-sidenav">
-              <li class="usa-sidenav__item">
-                <a href="">About this guide</a></li>
-              <li class="usa-sidenav__item">
-                <a href="" class="usa-current">What is a discovery sprint?</a></li>
-              <li class="usa-sidenav__item">
-                <a href="">Preparing for a sprint</a>
-                <ul class="usa-sidenav__sublist">
-                  <li class="usa-sidenav__item">
-                    <a href="">Staffing</a></li>
-                  <li class="usa-sidenav__item">
-                    <a href="" class="usa-current">Planning</a></li>
-                </ul>
-              <li class="usa-sidenav__item">
-                <a href="">Conducting the sprint</a></li>
-              <li class="usa-sidenav__item">
-                <a href="">Delivering the sprint findings</a></li>
-              <li class="usa-sidenav__item">
-                <a href="">Wrapping up the sprint</a></li>
-              <li class="usa-sidenav__item">
-                <a href="/remote/">Running remote sprints</a></li>
-              <li class="usa-sidenav__item">
-                <a href="/glossary/">Glossary & other resources</a></li>
-            </ul>
-          </nav>
-        </div>
+  </nav> -->

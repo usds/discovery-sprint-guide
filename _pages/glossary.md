@@ -1,9 +1,11 @@
 ---
-layout: index
+layout: guide
+title: Discovery Sprint Guide - Glossary & other resources
 permalink: /glossary/
+sidenav: guide
+sticky_sidenav: true
+
 # section: hiring-phases
-title: Discovery Sprint Guide - Glossary of Terms
-# sidenav: hiring-phases
 # phase: getting-started
 # sub-phase-order: 050
 # intro: 

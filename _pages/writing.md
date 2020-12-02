@@ -1,9 +1,11 @@
 ---
 layout: writing
-permalink: /writing/
-# section: hiring-phases
 title: Discovery Sprint Guide - Writing the Report
-# sidenav: hiring-phases
+permalink: /writing/
+sidenav: writing
+sticky_sidenav: true
+
+# section: hiring-phases
 # phase: getting-started
 # sub-phase-order: 050
 # intro: 

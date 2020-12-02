@@ -29,6 +29,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: usdsgov
 github_username:  usdsgov
 
+include: ['_pages']
+
+author: U.S. Digital Service
+repository: usds/discovery-sprint-guide
+github_url: https://github.com/usds/discovery-sprint-guide/
+
 # Build settings
 theme: uswds-jekyll
 plugins:

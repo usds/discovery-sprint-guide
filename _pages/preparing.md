@@ -1,9 +1,11 @@
 ---
-layout: index
-permalink: /preparing/
-# section: hiring-phases
+layout: guide
 title: Discovery Sprint Guide - Preparing for the Sprint
-# sidenav: hiring-phases
+permalink: /preparing/
+sidenav: guide
+sticky_sidenav: true
+
+# section: hiring-phases
 # phase: getting-started
 # sub-phase-order: 050
 # intro: 

@@ -1,9 +1,11 @@
 ---
-layout: index
-permalink: /conducting/
-# section: hiring-phases
+layout: guide
 title: Discovery Sprint Guide - Conducting the Discovery Sprint
-# sidenav: hiring-phases
+permalink: /conducting/
+sidenav: guide
+sticky_sidenav: true
+
+# section: hiring-phases
 # phase: getting-started
 # sub-phase-order: 050
 # intro: 

@@ -1,9 +1,11 @@
 ---
 layout: interview
-permalink: /interview/
-# section: hiring-phases
 title: Discovery Sprint Guide - Conducting Interviews
-# sidenav: hiring-phases
+permalink: /interview/
+sidenav: interview
+sticky_sidenav: true
+
+# section: hiring-phases
 # phase: getting-started
 # sub-phase-order: 050
 # intro: 

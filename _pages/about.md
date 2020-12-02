@@ -3,19 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: guide
+# permalink: /about/
+section: hiring-phases
 title: Discovery Sprint Guide
-permalink: /
-sidenav: guide
-sticky_sidenav: true
-subnav:
-  - text: About this guide
-    href: '#about-this-guide'
-  - text: What it is
-    href: '#what-is-the-purpose-of-a-discovery-sprint'
-  - text: Sprint timing
-    href: '#when-is-the-right-time-to-run-a-discovery-sprint'
-  - text: Discovery Sprint Scenario
-    href: '#discovery-sprint-scenario'
+sidenav: about
+phase: getting-started
+sub-phase-order: 050
+# intro: 
 ---
 
 # About this guide

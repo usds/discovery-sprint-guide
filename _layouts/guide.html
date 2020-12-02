@@ -27,39 +27,19 @@
     <a class="usa-skipnav" href="#main-content">Skip to main content</a>
     {% include _banner.html %}
     {% include _header.html %}
-
   <div class="usa-section">
     <div class="grid-container">
       <div class="grid-row grid-gap">
-        <div class="usa-layout-docs-sidenav desktop:grid-col-3">
-          <nav aria-label="Secondary navigation">
-            <ul class="usa-sidenav">
-              <li class="usa-sidenav__item">
-                <a href="">About this guide</a></li>
-              <li class="usa-sidenav__item">
-                <a href="" class="usa-current">What is a discovery sprint?</a></li>
-              <li class="usa-sidenav__item">
-                <a href="">Preparing for a sprint</a>
-                <ul class="usa-sidenav__sublist">
-                  <li class="usa-sidenav__item">
-                    <a href="">Staffing</a></li>
-                  <li class="usa-sidenav__item">
-                    <a href="" class="usa-current">Planning</a></li>
-                </ul>
-              <li class="usa-sidenav__item">
-                <a href="">Conducting the sprint</a></li>
-              <li class="usa-sidenav__item">
-                <a href="">Delivering the sprint findings</a></li>
-              <li class="usa-sidenav__item">
-                <a href="">Wrapping up the sprint</a></li>
-              <li class="usa-sidenav__item">
-                <a href="/remote/">Running remote sprints</a></li>
-              <li class="usa-sidenav__item">
-                <a href="/glossary/">Glossary & other resources</a></li>
-            </ul>
-          </nav>
+
+        {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+
+        <div class="usa-layout-docs-sidenav desktop:grid-col-3 usa-sticky-sidenav">
+
+              {% include _sidenav.html links=sidenav %}
+
         </div>
-  
+
+
         <main class="usa-layout-docs-main_content desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
             {{ content }}
         </main>
