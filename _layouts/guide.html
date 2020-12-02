@@ -27,26 +27,20 @@
     <a class="usa-skipnav" href="#main-content">Skip to main content</a>
     {% include _banner.html %}
     {% include _header.html %}
-  <div class="usa-section">
-    <div class="grid-container">
-      <div class="grid-row grid-gap">
+    <div class="usa-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+          <div class="usa-layout-docs-sidenav desktop:grid-col-3 usa-sticky-sidenav">
+            {% include _sidenav.html links=sidenav %}
+          </div>
 
-        {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
-
-        <div class="usa-layout-docs-sidenav desktop:grid-col-3 usa-sticky-sidenav">
-
-              {% include _sidenav.html links=sidenav %}
-
+          <main class="usa-layout-docs-main_content desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
+              {{ content }}
+          </main>
         </div>
-
-
-        <main class="usa-layout-docs-main_content desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
-            {{ content }}
-        </main>
       </div>
     </div>
-  </div>
-</main>
 
 {% include _footer.html %}
 

@@ -4,11 +4,17 @@ title: Discovery Sprint Guide - Preparing for the Sprint
 permalink: /preparing/
 sidenav: guide
 sticky_sidenav: true
-
-# section: hiring-phases
-# phase: getting-started
-# sub-phase-order: 050
-# intro: 
+subnav:
+  - text: Staffing
+    href: '#staffing'
+  - text: Team cohesion
+    href: '#team-cohesion'
+  - text: Identifying partners
+    href: '#identifying-your-partners'
+  - text: Sprint logistics
+    href: '#planning-and-sprint-logistics'
+  - text: Sprint kick-off
+    href: '#the-kick-off-meeting'
 ---
 
 # Preparing for the Sprint
@@ -71,7 +77,7 @@ The team lead should work with the stakeholder organization to identify the foll
 
 There are a number of arrangements and contacts that need to happen ahead of time to make a sprint run smoothly. The sprint team lead should work with the organization’s partners to identify someone who can help coordinate logistics for the team. 
 
-### Schedule
+#### Schedule
 
 - **Timing:** Before you get too far into planning, make sure to discuss actual calendar dates with your primary stakeholders. Scheduling too close to a big annual meeting, the beginning or end of the budget cycle, or between Thanksgiving and the end of December when many people take extended vacation can kill a sprints momentum.
 
@@ -85,7 +91,7 @@ There are a number of arrangements and contacts that need to happen ahead of tim
 
 - **Final briefing:** Begin the process of scheduling the final briefing meeting, where you’ll present your results, as soon as you can. This helps immensely with a sense of urgency towards the conclusion of the research, and the report delivery, and can organically help prevent scope creep.
 
-### Access
+#### Access
 
 - **Building Access:** Identify where the organization works. If there are multiple locations, get a physical map of where the organization is located to help everyone determine where they need to go. Everyone on the team should be able to access the organization’s buildings. If interview locations are far from each other, you can try to be efficient for planning your interviews.
 
@@ -97,7 +103,7 @@ There are a number of arrangements and contacts that need to happen ahead of tim
 
 - **Data / Systems:** Collect any available background materials, technical diagrams, problem statements, and other materials relevant to the content of the sprint and distribute them to the sprint team ahead of time. Request access to potential systems or tools the organization uses that the sprint team might want to investigate.
 
-### Software / Tools
+#### Software / Tools
 
 - **Communication:** Make sure everyone on the team has everyone else’s phone numbers and emails. Determine what tools the sprint team will use to communicate with one another and ensure that all sprint team members can access those tools. 
 

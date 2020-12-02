@@ -8,13 +8,11 @@ permalink: /
 sidenav: guide
 sticky_sidenav: true
 subnav:
-  - text: About this guide
-    href: '#about-this-guide'
   - text: What it is
     href: '#what-is-the-purpose-of-a-discovery-sprint'
   - text: Sprint timing
     href: '#when-is-the-right-time-to-run-a-discovery-sprint'
-  - text: Discovery Sprint Scenario
+  - text: Discovery sprint scenario
     href: '#discovery-sprint-scenario'
 ---
 

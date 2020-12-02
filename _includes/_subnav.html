@@ -1,4 +1,4 @@
-{% for link in include.links %}
+<!--{% for link in include.links %}
   {% assign _link-current = false %}
   {% if link.href == page.url or link.href == page.permalink %}
     {% assign _link-current = true %}
@@ -12,4 +12,14 @@
     </ul>
     {% endif %}
 </li>
+{% endfor %}-->
+
+
+
+{% for link in include.links %}
+  <li>
+    <a href="{% if link.external %}{{ link.href }}{% else %}{{ link.href }}{% endif %}" 
+        {% if link.class %} class="{{ link.class }}" {% endif %} >
+        {{ link.text }} {{ link.class }}</a>
+  </li>
 {% endfor %}
