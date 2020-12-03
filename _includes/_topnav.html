@@ -1,18 +1,18 @@
 <nav aria-label="Primary navigation" class="usa-nav">
-    <div class="usa-nav__inner">
-      <ul class="usa-nav__primary usa-accordion">
+  <div class="usa-nav__inner">
+    {% assign primary_links = site.data.navigation.primary %}
+    {% if primary_links %}
+    <ul class="usa-nav__primary usa-accordion">
+      {% for _section in primary_links %} 
         <li class="usa-nav__primary-item">
-          <a class="usa-nav__link usa-current" href="/"><span>Home</span></a>
+          <a class="{% if _section.class %}{{ _section.class }}{% else %} usa-nav-link {% endif %} 
+            {% if _section.name == page.sidenav %} usa-current{% endif %}" 
+            href="{% if _section.external %}{{ _section.href }}{% else %}{{ _section.href | relative_url }}{% endif %}">
+            <span>{{ _section.text }}</span>
+          </a>
         </li>
-        <li class="usa-nav__primary-item">
-          <a class="usa-nav__link" href="/interview/"><span>Interview Guide</span></a>
-        </li>
-        <li class="usa-nav__primary-item">
-          <a class="usa-nav__link" href="/writing/"><span>Writing Guide</span></a>
-        </li>
-<!--        <li class="usa-nav__primary-item">
-          <a class="usa-nav__link" href="javascript:void(0)"><span>Case Studies</span></a>
-        </li> -->
-      </ul> 
-    </div>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
 </nav>

@@ -5,7 +5,7 @@ permalink: /conducting/
 sidenav: guide
 sticky_sidenav: true
 
-# section: hiring-phases
+# section: home
 # phase: getting-started
 # sub-phase-order: 050
 # intro: 

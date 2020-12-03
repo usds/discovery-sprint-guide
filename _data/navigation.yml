@@ -6,10 +6,10 @@ primary:
     name: guide
   - text: Interview Guide
     href: /interview/
-    name: interview-guide
+    name: interview
   - text: Writing Guide
     href: /writing/
-    name: writing-guide
+    name: writing
 
 guide:
   - text: About this guide
