@@ -33,3 +33,24 @@ USWDS THEME CUSTOM STYLES
         top: 0;
     }
 }
+
+/* Highlight */
+.guide-highlight, .guide__download__bg {
+    background-color: #eff6fb;
+    padding: 1.5rem;
+  }
+  
+  .guide-highlight {
+    border-left: 4px solid #00cfff;
+  }
+
+  blockquote p, .guide-note {
+    background-color: #eff6fb;
+    padding: 1.5rem;
+    border-left: 4px solid #00cfff;
+  }
+
+  blockquote {
+      margin-inline-start: 0px;
+      max-width: 68ex;
+  }
