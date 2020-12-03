@@ -1,5 +1,5 @@
 ---
-layout: guide
+layout: page
 title: Discovery Sprint Guide - When and How Sprints Can Fail
 permalink: /failure/
 sidenav: guide

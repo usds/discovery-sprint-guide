@@ -1,5 +1,5 @@
 ---
-layout: writing
+layout: page
 title: Discovery Sprint Guide - Writing the Report
 permalink: /writing/
 sidenav: writing

@@ -1,5 +1,5 @@
 ---
-layout: guide
+layout: page
 title: Discovery Sprint Guide - Preparing for the Sprint
 permalink: /preparing/
 sidenav: guide

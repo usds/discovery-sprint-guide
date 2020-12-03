@@ -1,5 +1,5 @@
 ---
-layout: guide
+layout: page
 title: Discovery Sprint Guide - Running Remote Sprints
 permalink: /remote/
 sidenav: guide

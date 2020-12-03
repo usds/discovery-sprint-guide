@@ -1,5 +1,5 @@
 ---
-layout: interview
+layout: page
 title: Discovery Sprint Guide - Conducting Interviews
 permalink: /interview/
 sidenav: interview

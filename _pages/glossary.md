@@ -1,5 +1,5 @@
 ---
-layout: guide
+layout: page
 title: Discovery Sprint Guide - Glossary & other resources
 permalink: /glossary/
 sidenav: guide
