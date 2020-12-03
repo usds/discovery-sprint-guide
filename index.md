@@ -21,7 +21,7 @@ The U.S. Digital Service (USDS) engages and partners with various agencies acros
 
 This guide intends to explain the sprint process and share some of our best practices to help teams adapt and run their own discovery sprints.
 
-# What is the purpose of a discovery sprint?
+### What is the purpose of a discovery sprint?
 Discovery Sprints are a useful method to quickly build a common understanding of the status of a complex organization, system or service. They can help create paths toward solutions by identifying specific, actionable next steps for the people at the organization who will carry that work forward. 
 
 When we say “quickly” we mean that almost all of the work is completed in 2-4 weeks. A small cross-functional team of engineers, designers, product managers, and subject matter experts partner with an organization’s personnel to quickly explore an organizational problem or challenge. 

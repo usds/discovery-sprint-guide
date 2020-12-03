@@ -36,7 +36,6 @@ Because the intent of a discovery sprint is to put fresh eyes on an issue, a dis
 
 The sprint team is the heart of a successful sprint. Sprint teams are necessarily small, usually 4-6 people. Sprint teams need to move quickly, often including actual travel requirements and the larger the team, the  more communication and coordination is needed. The makeup of a particular team will depend on the specifics of the problem they will be solving. A typical team has the following skillsets:
 
-
 - **Project leadership (the sprint lead)**
 - **Product management**
 - **Design expertise (e.g. user research, UX, content, visual, etc.)**

@@ -39,7 +39,7 @@ subnav:
 
 **User or End User:** Broadly used to mean the general public or a person on the receiving end of a government service. However, in the case of a Discovery Sprint, “end user” may refer to the government employee who is using internal software in order to provide a service to a citizen. For example, if the Discovery Sprint is looking into how the interface of a veteran’s telephone hotline functions, then the call center operator will be considered a user as well as the veteran who is calling.
 
-# Other Resources
+### Other Resources
 * <a href="https://ux-guide.18f.gov/" target="_blank">18F UX Guide</a>
 * <a href="https://derisking-guide.18f.gov/" target="_blank">18F De-risking Government Technology Guide</a>
 * <a href="https://methods.18f.gov/" target="_blank">18F Human-Centered Design Methods</a>
@@ -54,6 +54,5 @@ subnav:
 * <a href="https://www.linkedin.com/pulse/government-discovery-sprint-playbook-how-lessons-learned-kathy-pham/" target="_blank">Previous Version of USDS Sprint Documentation</a>
 * <a href="https://thenounproject.com/" target="_blank">The Noun Project</a>
 
-# Acknowledgements
-
+### Acknowledgements
 Version One of this guide was authored by Jenn Noinaj and Kat Jurick. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hardwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
