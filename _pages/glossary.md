@@ -52,6 +52,7 @@ subnav:
 * <a href="https://pra.digital.gov/" target="_blank">Paperwork Reduction Act (PRA) Guide</a>
 * <a href="https://ncoc.org/project-redesign/" target="_blank">NCOC Project Resdesign</a>
 * <a href="https://www.linkedin.com/pulse/government-discovery-sprint-playbook-how-lessons-learned-kathy-pham/" target="_blank">Previous Version of USDS Sprint Documentation</a>
+<a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md/" target="_blank">How VA.gov Adapted This Guide</a>
 * <a href="https://thenounproject.com/" target="_blank">The Noun Project</a>
 
 ### Acknowledgements
