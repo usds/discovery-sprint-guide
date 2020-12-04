@@ -34,20 +34,3 @@ function setCurrentLink(){
     currentLink.classList.add('usa-current');
   }
 }
-
-function generateSubnav() {
-  let h3s = document.querySelectorAll('h3');
-  let subNav = "";
-  for (let i = 0; i < h3s.length; i++) {
-    let text = h3s[i].innerText;
-    let regex = /[!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~]/g;
-    let cleanText = text.replace(regex,"");
-    let textElements = cleanText.split(" ");
-    let href = textElements.join("-").toLowerCase();
-    let textPrefix = "- text: ";
-    let hrefPrefix = "  href: ";
-    let subNavLink = textPrefix + cleanText + "\n" + hrefPrefix + "'#" + href + "'" + "\n";
-    subNav +=  subNavLink;
-  }
-  console.log(subNav);
-}
