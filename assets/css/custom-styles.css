@@ -24,7 +24,9 @@ USWDS THEME CUSTOM STYLES
 /* .usa-nav__link .usa-current a { color: #000000; } */
 
 /* Side Navigation */
-@media (min-width: 64em) {
+
+/* Browser is at least 1024px and above */
+@media (min-width: 1024px) {
     .usa-sticky-sidenav {
         align-self: flex-start;
         max-height: 100vh;
@@ -33,6 +35,21 @@ USWDS THEME CUSTOM STYLES
         top: 0;
     }
 }
+
+@media all and (min-width: 64em) { .usa-layout-docs__sidenav { padding-top: 0; } }
+
+@media all and (min-width: 64em) { .usa-layout-docs__main { order: 2; } }
+
+@media (min-width: 64em) { 
+  .usa-layout-docs__sidenav {
+    width: 25%;
+  }
+
+  .usa-layout-docs__main  {
+    width: 75%;
+  }
+}
+
 
 /* Highlight */
 .guide-highlight, .guide__download__bg {
