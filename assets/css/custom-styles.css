@@ -36,10 +36,6 @@ USWDS THEME CUSTOM STYLES
     }
 }
 
-@media all and (min-width: 64em) { .usa-layout-docs__sidenav { padding-top: 0; } }
-
-@media all and (min-width: 64em) { .usa-layout-docs__main { order: 2; } }
-
 @media (min-width: 64em) { 
   .usa-layout-docs__sidenav {
     width: 25%;
