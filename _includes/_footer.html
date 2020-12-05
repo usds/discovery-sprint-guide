@@ -44,5 +44,8 @@
           </div>
         </div>
       </div>
+      {% if jekyll.environment == 'staging' %}
+        {% include _env-indicator.html %}
+      {% endif %}
     </div>
   </footer>
