@@ -31,10 +31,10 @@
       <div class="grid-container">
         <div class="grid-row grid-gap">
           {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
-          <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
+          <div class="usa-layout-docs-sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
             {% include _sidenav.html links=sidenav %}
           </div>
-          <main class="usa-layout-docs__main desktop:grid-col-9 usa-prose" id="main-content">
+          <main class="usa-layout-docs-main desktop:grid-col-9 usa-prose" id="main-content">
               {{ content }}
           </main>
         </div>
