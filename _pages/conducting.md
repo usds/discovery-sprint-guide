@@ -43,7 +43,7 @@ Oftentimes, stakeholders want to know why they are talking to sprint team member
 ### Sample Schedule
 On day one of the sprint, the sprint lead should have already pre-scheduled interviews with the organization’s relevant stakeholders and users so that the team can get started right away. 
  
-The team is there to learn as much about the organization as possible. It’s good to start talking with managers and leads, but also important to talk with individual contributors who are as close to the work as possible (engineers, contractors, analysts, call center operators, etc). 
+The team is there to learn as much about the organization as possible. It’s good to start talking with managers and leads, but also important to talk with individual contributors who are as close to the work as possible (engineers, contractors, analysts, call center operators, etc). You are there to respectfully surface areas for improvement, and, even more importantly, to look for ways to offer practical, tactical recommendations for how to achieve these improvements. 
  
 **Beginning of week One:**
 - Start of day: Quick team stand-up (the schedule for the day, who is doing what, give any blockers to the sprint lead) 
@@ -66,8 +66,6 @@ The team is there to learn as much about the organization as possible. It’s go
 - Check in with key stakeholders to review findings to date; iterate as necessary based on their feedback
 - Begin draft report and presentation
 - Remember that, while in some instances there’s a clear path to a solution, the answer is not limited to technology. The team’s job during the research phase is to review, not only the technology, but also the roles, mindsets, processes and policy. 
- 
-You are there to respectfully surface areas for improvement, and, even more importantly, to offer practical, tactical recommendations for how to achieve these improvements. 
  
 Take time every day for the team to share out what they have learned, debrief, and discuss possible next steps. This prevents sprints from going down specific paths too quickly and is useful for re-focusing the team and providing concrete next steps. As the team collects notes and interviews, themes will emerge that will help target the sprint activities. 
  
