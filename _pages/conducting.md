@@ -56,7 +56,7 @@ The team is there to learn as much about the organization as possible. It’s go
 - Continue team check-ins throughout the day as above
 - Interviews; request more if needed depending on findings
 - Talk to and observe end users if possible
-- Have team brain dump all you have learned in a structured way, formulate a hypothesis, and surface areas where you still have questions
+- Have the team brain dump all you have learned in a structured way, formulate a hypothesis, and surface areas where you still have questions
 - Make a list of those questions, and figure out who else you need to talk to - devise a plan to talk to those people
 
 **End of week One:**
