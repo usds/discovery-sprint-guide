@@ -22,7 +22,10 @@ It is also important to figure out the sprint’s north star and check in on thi
 The team is on the sprint to help an organization look at something with fresh eyes and start to have a conversation with them about where they could go. The team should be realistic about what they can accomplish in two weeks and make sure to loop in their sprint stakeholders to get their feedback as well. Lastly, as the sprint team uncovers more information, the team should constantly refocus and reprioritize to respond accordingly.
 
  > It is the sprint team’s role to uncover what the organization’s needs are, understand the big picture, and provide recommendations that are realistic to achieve, taking into account what is actually possible for the organization to implement. 
-.
+
+### Sprint Expectations
+As a sprint team participant, be proactive and self-organize. The sprint lead is there to help direct the team, but team members should take initiative and have the freedom to chase things down. The time will move quickly and tasks can change daily – or even hourly. Schedules and meetings should be fluid to make sure the team is using the time wisely for everyone involved. Patience, flexibility, and communication are key.
+
 Here are some tips to keep in mind and revisit often during the research phase:
  
 - Work from a learning mindset: you are there to learn from and enable your partners
@@ -72,3 +75,9 @@ Take time every day for the team to share out what they have learned, debrief, a
 Ideally, by the end of the first week, you should have some concrete directions to chase down and should spend the second week more focused on those areas. Focus on getting as complete a picture as possible of the current state of the organization and the history that led up to it. Spend time understanding organizational dynamics and relationships, and identify decision points, pain points, and aspirations. 
  
 Once the sprint team has a good understanding of the organization and its challenges, the team should tailor their approach to what makes sense for the organization. A project or initiative that is just starting is going to be in a different place than one that has a large backlog that needs to be resolved. 
+
+### Regular reporting to your stakeholders 
+Part of the responsibilities of the sprint lead is to maintain good communication with the organization stakeholders throughout the duration of the sprint. This can be done using whatever methods make sense for the people involved (phone calls, emails etc.), daily and or weekly check-ins help keep everyone on the same page.
+
+Remember that your senior stakeholders are the ones who will bear the responsibility of anything you discover as well as all the recommendations in your report. It’s better not to surprise them. Interacting with them as true partners will help you set them up for success. And allowing a key stakeholder or two to see an early draft of your findings will give them the chance to weigh in on how to message some of your reporting in ways that their organization can hear, and that they themselves can prepare for. They may not always agree with you, but they shouldn’t feel caught out either. 
+
