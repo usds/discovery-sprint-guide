@@ -119,7 +119,7 @@ Sometimes, for reasons, you may have to interview someone who the team doesn’t
 
 Stakeholders can be very uncomfortable speaking ground truth in front of a boss or a manager. If this dynamic is happening, this is a place where the team lead can step in with a request for help *“Would you mind if we go (on a tour, back to your office, get a coffee, etc) and you can help me understand _________ better?”*
 
-**Questions**
+### Asking Good Questions
 
 Going into every interview, the interviewer should have a list of 15 or so questions. Identify the top 5 beforehand in case time runs short, or you get too far off topic and you need to reset. Know that it’s OK to ask questions out of order based on what the stakeholder is saying. It is also OK to iterate, add or remove questions as you start to understand things more deeply.
 
