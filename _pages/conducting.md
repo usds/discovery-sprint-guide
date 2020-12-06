@@ -45,21 +45,21 @@ On day one of the sprint, the sprint lead should have already pre-scheduled inte
  
 The team is there to learn as much about the organization as possible. It’s good to start talking with managers and leads, but also important to talk with individual contributors who are as close to the work as possible (engineers, contractors, analysts, call center operators, etc). 
  
-Beginning of week One:
+**Beginning of week One:**
 - Start of day: Quick team stand-up (the schedule for the day, who is doing what, give any blockers to the sprint lead) 
 - Conduct individual interviews (stakeholders; staff)
 - Lunch: Team debrief, any changes going into the afternoon
 - Conduct individual interviews, chasing down leads from morning interviews
 - End of day: Team debrief and set-up for the next day
 
-Middle of week One:
+**Middle of week One:**
 - Continue team check-ins throughout the day as above
 - Interviews; request more if needed depending on findings
 - Talk to and observe end users if possible
 - Have team brain dump all you have learned in a structured way, formulate a hypothesis, and surface areas where you still have questions
 - Make a list of those questions, and figure out who else you need to talk to - devise a plan to talk to those people
 
-End of week One:
+**End of week One:**
 - Continue team check-ins throughout the day as above
 - Hold interviews with SMEs to answer any outstanding questions
 - Continue talking to and observing people and processes
