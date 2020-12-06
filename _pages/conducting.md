@@ -21,7 +21,7 @@ It is also important to figure out the sprint’s north star and check in on thi
 
 The team is on the sprint to help an organization look at something with fresh eyes and start to have a conversation with them about where they could go. The team should be realistic about what they can accomplish in two weeks and make sure to loop in their sprint stakeholders to get their feedback as well. Lastly, as the sprint team uncovers more information, the team should constantly refocus and reprioritize to respond accordingly.
 
-[box] It is the sprint team’s role to uncover what the organization’s needs are, understand the big picture, and provide recommendations that are realistic to achieve, taking into account what is actually possible for the organization to implement. 
+ > It is the sprint team’s role to uncover what the organization’s needs are, understand the big picture, and provide recommendations that are realistic to achieve, taking into account what is actually possible for the organization to implement. 
 .
 Here are some tips to keep in mind and revisit often during the research phase:
  
