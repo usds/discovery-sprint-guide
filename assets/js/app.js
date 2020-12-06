@@ -1,6 +1,4 @@
 // Add your custom javascript here
-console.log("Hi from Federalist");
-
 let sidenav = document.querySelector('.usa-sidenav');
 
 window.addEventListener('scroll',setCurrentLink);
