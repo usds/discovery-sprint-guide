@@ -44,3 +44,10 @@ See the Writing Guide for in depth details on creating a discovery sprint report
 
 At USDS we have occasionally run into situations where a sprint report document can have unintended audiences or consequences. We now make it a best practice to have a bureaucracy hacker and members of our leadership team review final drafts of deliverables before they are considered “done” or ready to deliver. A fresh pair of eyes for a final edit is always recommended. 
 
+### Readout and Presentation to Stakeholders
+Ideally the sprint lead was able to pre-schedule the executive stakeholders for a readout meeting date as close to 3 or 4 weeks out from the kick-off date as possible. This will ensure that momentum stays high during the sprint, and that the sprint team is able to deliver their findings while everything is top of mind. 
+ 
+During the sprint readout, walk through the team’s findings, answer any questions the organization might have, and discuss next steps. The team should print out a few paper copies to bring to the meeting. At the onset, make acknowledgements - thank leadership and the staff you worked with for their time and efforts. 
+ 
+The team should then walk through what they did, their research, and how they came to the findings and opportunities. The team should NOT walk through the report itself. Use this time to share stories that the team heard during research to cement why the team proposed the findings and recommendations. It is important that the sprint team understands where the organization is coming from and delivers the results of the sprint in a way that resonates with them. The research the team has done should inform this. 
+
