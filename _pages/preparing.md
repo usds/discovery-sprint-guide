@@ -32,7 +32,8 @@ We break the rest of the preparation stage into three main components: staffing,
 ### Staffing
 Because the intent of a discovery sprint is to put fresh eyes on an issue, a discovery sprint team should be made up of people who do not bear direct responsibility for solving any uncovered issues. 
 
-> At USDS, Sprint staffing is done by the leadership team. A call will go out for volunteers who have an interest in participating in a sprint in general, a specific needed skill, or the upcoming sprint topic specifically. Due to other project commitments and responsibilities, it can sometimes be challenging to pull a team together quickly, but as a rule we try not to begin a sprint until the team is fully staffed.  
+At USDS, Sprint staffing is done by the leadership team. A call will go out for volunteers who have an interest in participating in a sprint in general, a specific needed skill, or the upcoming sprint topic specifically. Due to other project commitments and responsibilities, it can sometimes be challenging to pull a team together quickly, but as a rule we try not to begin a sprint until the team is fully staffed.
+{:.guide-usds}
 
 The sprint team is the heart of a successful sprint. Sprint teams are necessarily small, usually 4-6 people. Sprint teams need to move quickly, often including actual travel requirements and the larger the team, the  more communication and coordination is needed. The makeup of a particular team will depend on the specifics of the problem they will be solving. A typical team has the following skillsets:
 
@@ -46,7 +47,8 @@ The sprint team is the heart of a successful sprint. Sprint teams are necessaril
 
 Some individuals may possess several of these skills. For example, the sprint lead might be a designer, or the policy team member may also be a software engineer. The important thing is to ensure each skill is represented by at least one person, that said, we acknowledge that staffing is rarely perfect due to staff availability, so there may need to be some hard choices at this stage.
 
-> At USDS we do not have any teams that exist to only run sprints, instead we staff discovery sprints with people who are rolling off larger or long-term projects. Doing this allows team members to focus on new work quickly. It’s also an opportunity for cross-pollination by bringing together a needed set of skills to make up a strong sprint team. We also keep in mind that if a sprint turns into a longer-term engagement with the organization, we want to staff folks to work on things that they are passionate about
+At USDS we do not have any teams that exist to only run sprints, instead we staff discovery sprints with people who are rolling off larger or long-term projects. Doing this allows team members to focus on new work quickly. It’s also an opportunity for cross-pollination by bringing together a needed set of skills to make up a strong sprint team. We also keep in mind that if a sprint turns into a longer-term engagement with the organization, we want to staff folks to work on things that they are passionate about.
+{:.guide-usds}
 
 ### Team Cohesion
 

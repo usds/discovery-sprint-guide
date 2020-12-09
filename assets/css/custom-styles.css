@@ -54,22 +54,20 @@ USWDS THEME CUSTOM STYLES
 }
 
 /* Highlight */
-.guide-highlight, .guide__download__bg {
-    background-color: #eff6fb;
-    padding: 1.5rem;
-  }
-  
-  .guide-highlight {
-    border-left: 4px solid #00cfff;
-  }
+.guide-usds {
+  border-left: 4px solid #696969;
+  padding: 1.5rem;
+  background-color: #efefef;
+}
 
-  blockquote p, .guide-note {
-    background-color: #eff6fb;
-    padding: 1.5rem;
-    border-left: 4px solid #00cfff;
-  }
+blockquote {
+  margin-inline-start: 0px;
+  max-width: 68ex;
+}
 
-  blockquote {
-      margin-inline-start: 0px;
-      max-width: 68ex;
-  }
+blockquote p {
+  background-color: #eff6fb;
+  padding: 1.5rem;
+  border-left: 4px solid #00cfff;
+}
+
