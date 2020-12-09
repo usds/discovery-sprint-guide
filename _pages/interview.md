@@ -15,7 +15,7 @@ subnav:
 
 Ideally, the team should talk to as many people as they can possibly schedule during the two-week research phase of the sprint. This section covers logistics and the process for stakeholder interviews. 
 
-> **Note:** This section assumes that your interviews will be conducted in person which we recommend, however we also have a section on remote sprints in this guide if you are unable to travel to where your stakeholders are. 
+> **Note:** This section assumes that your interviews will be conducted in person which we recommend, however we also have a section on <a href="/remote/">remote sprints</a> in this guide if you are unable to travel to where your stakeholders are. 
 
 **Laying the groundwork for successful interviews**
 
