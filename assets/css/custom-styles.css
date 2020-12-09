@@ -61,11 +61,12 @@ USWDS THEME CUSTOM STYLES
 }
 
 .guide-highlight {
-  border-left: 4px solid #005ea2;
-  padding: 0.5rem 0.5rem 0.5rem 1rem;
-  background-color: #ffffff;
-  line-height: 1.5;
-  color: #005ea2;
+  font-family: 'Merriweather Web';
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-inline-start: 1rem;
+  max-width: 45ex !important;
 }
 
 blockquote {
