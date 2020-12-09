@@ -17,7 +17,7 @@ subnav:
 ---
 
 # About this guide
-The U.S. Digital Service (USDS) engages and partners with various agencies across the US federal government to work on technology improvement projects in service to the American people. Over the past six years, USDS has partnered with dozens of federal and state agencies to build more than 160 successful digital products. In our initial interactions with a government agency, we will often run what we call a Discovery Sprint. 
+The U.S. Digital Service (USDS) engages with various agencies to work on technology improvement projects impacting people served by the United States government. Over the past six years, USDS has partnered with dozens of federal and state agencies to build more than 160 successful digital products. In our initial interactions with a government agency, we will often run what we call a Discovery Sprint. 
 
 This guide intends to explain the sprint process and share some of our best practices to help teams adapt and run their own discovery sprints.
 
