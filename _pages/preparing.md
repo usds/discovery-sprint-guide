@@ -36,13 +36,13 @@ Because the intent of a discovery sprint is to put fresh eyes on an issue, a dis
 
 The sprint team is the heart of a successful sprint. Sprint teams are necessarily small, usually 4-6 people. Sprint teams need to move quickly, often including actual travel requirements and the larger the team, the  more communication and coordination is needed. The makeup of a particular team will depend on the specifics of the problem they will be solving. A typical team has the following skillsets:
 
-- **Project leadership (the sprint lead)**
-- **Product management**
-- **Design expertise (e.g. user research, UX, content, visual, etc.)**
-- **Technical expertise (e.g. engineering, systems, security, data science, etc)**
-- **Policy or legal expertise (e.g. what USDS calls “bureaucracy hackers”)**
-- **Procurement knowledge**
-- **Communication and presentation skills**
+- Project leadership (the sprint lead)
+- Product management
+- Design expertise (e.g. user research, UX, content, visual, etc.)
+- Technical expertise (e.g. engineering, systems, security, data science, etc)
+- Policy or legal expertise (e.g. what USDS calls “bureaucracy hackers”)
+- Procurement knowledge
+- Communication and presentation skills
 
 Some individuals may possess several of these skills. For example, the sprint lead might be a designer, or the policy team member may also be a software engineer. The important thing is to ensure each skill is represented by at least one person, that said, we acknowledge that staffing is rarely perfect due to staff availability, so there may need to be some hard choices at this stage.
 
@@ -113,8 +113,7 @@ The kick-off meeting is the first time a large group comes together for the disc
 
 We include this first meeting as part of the planning stage because it needs to happen before the sprint begins. At the kick-off it is essential for everyone in the room to hear the head of the organization reiterate that stakeholder interviews will be happening, that they are a priority, and that the effort is supported from the top of the organization. 
 
-**A sample kick-off agenda**
-
+**A sample kick-off agenda**  
 It is important to use the sprint kick-off to set sprint expectations and outcomes for the organization, stressing to them that the team is there to collaborate with them and provide an outside, neutral, 3rd-party assessment. You should help the organization understand that the team is engaging for a short amount of time and will use that time to meet with as many stakeholders as possible. What makes sprints so successful is that the result of the sprint is not an “audit” but objective observation followed by actionable information and recommendations for the organization’s leadership to address the items they’ve identified.
 
 Here is an example agenda for the sprint kick-off:
