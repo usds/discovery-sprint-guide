@@ -26,7 +26,8 @@ Discovery Sprints are a useful method to quickly build a common understanding of
 
 When we say “quickly” we mean that almost all of the work is completed in 2-4 weeks. A small cross-functional team of engineers, designers, product managers, and subject matter experts partner with an organization’s personnel to quickly explore an organizational problem or challenge. 
 
-> The purpose of doing a discovery sprint is to help identify root causes, issues, and opportunities, but not to try to solve them in this time window.
+The purpose of doing a discovery sprint is to help identify root causes, issues, and opportunities, but not to try to solve them in this time window.
+{:.guide-highlight}
 
 During a discovery sprint the team will interview stakeholders at every level of the organization as well as end-users. They will also dig into available data, look at code in production, and observe processes. As a methodology, Discovery Sprints are not new -- they stem from best practices in Human-Centered Design. At USDS the organizations we typically engage with are federal agencies but, for this guide, we use the word “organization” as a placeholder for any group you would be doing your sprint work with. You can find definitions of other terms we use throughout this guide in the glossary.
 

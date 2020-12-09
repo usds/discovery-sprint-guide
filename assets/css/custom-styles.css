@@ -60,6 +60,14 @@ USWDS THEME CUSTOM STYLES
   background-color: #efefef;
 }
 
+.guide-highlight {
+  border-left: 4px solid #005ea2;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
+  background-color: #ffffff;
+  line-height: 1.5;
+  color: #005ea2;
+}
+
 blockquote {
   margin-inline-start: 0px;
   max-width: 68ex;

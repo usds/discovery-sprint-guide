@@ -10,6 +10,9 @@ primary:
   - text: Writing Guide
     href: /writing/
     name: writing
+  - text: Case Studies
+    href: /cases/
+    name: cases
 
 guide:
   - text: About this guide
@@ -36,3 +39,7 @@ interview:
 writing:
   - text: Writing guide
     href: /writing/
+
+cases:
+  - text: Case studies
+    href: /cases/
