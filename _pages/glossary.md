@@ -13,7 +13,7 @@ subnav:
 
 # Glossary and Other Resources
 
-**Affinity mapping** This is a common user reasearch method used to catalog data and group research findings into buckets and themes
+**Affinity mapping** This is a common user reasearch method used to catalog data and group research findings into buckets and themes. 
 
 **Agency:** Most of the work that USDS does is done at federal agencies (Department of Health and Human Services, or The Social Security Administration are examples) for the purposes of this document we are using the term “organization” as a stand-in for federal agency to represent the place where the sprint is happening
 
