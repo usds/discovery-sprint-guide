@@ -12,6 +12,9 @@ subnav:
 ---
 
 # Glossary and Other Resources
+
+**Affinity mapping** This is a common user reasearch method used to catalog data and group research findings into buckets and themes
+
 **Agency:** Most of the work that USDS does is done at federal agencies (Department of Health and Human Services, or The Social Security Administration are examples) for the purposes of this document we are using the term “organization” as a stand-in for federal agency to represent the place where the sprint is happening
 
 **Air cover:** The highest ranking person at the place where the sprint is happening. In the private sector this would be the president of the company or a C-level executive, at a Federal Agency they may be a Secretary, Administrator, Director, or a Deputy of one of those things. Sometimes also referred to as “top cover”
@@ -56,4 +59,4 @@ subnav:
 * <a href="https://thenounproject.com/" target="_blank">The Noun Project</a>
 
 ### Acknowledgements
-Version One of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on an internal to USDS guide. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hardwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
+Version One of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on a previously written internal to USDS guide. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hardwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
