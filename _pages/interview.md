@@ -18,7 +18,7 @@ subnav:
 
 Ideally, the team should talk to as many people as they can possibly schedule during the two-week research phase of the sprint. This section covers logistics and the process for stakeholder interviews. 
 
-> **Note:** This section assumes that your interviews will be conducted in person which we recommend, however we also have a section on <a href="/remote/">remote sprints</a> in this guide if you are unable to travel to where your stakeholders are. 
+> **Note:** This section assumes that your interviews will be conducted in person which we recommend, however we also have a section on <a href="/remote/">remote sprints</a> if you are unable to travel to where your stakeholders are. 
 
 **Laying the groundwork for successful interviews**  
 At the kick-off it is important for everyone in the room to hear the head of the organization, (or primary stakeholder) message that interviews will be happening, that they are a priority, and that the effort is supported by the organization. This will set the tone and help make the research phase go smoothly. If you have a member of the team who has a user research background then they should help drive this phase. If you don’t then this is an area where you could bring in an expert, even just for an hour or two of prep, to help the team feel ready to interview people.
