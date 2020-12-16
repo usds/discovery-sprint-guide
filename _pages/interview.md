@@ -143,7 +143,9 @@ Here’s a list of key phrases and approaches that should be helpful:
 
 **Definitions:** *“Can you say that acronym again?”*, *“We find that everyone means something a little different when they say [“agile”, “cloud”, etc, etc.] can you help me understand what you mean by…?”* 
 
-***Superlatives:*** *“What’s the most [inefficient, frustrating, expensive, worst] part of the process?”*, *“What’s the [easiest, best, most fun, fastest] part of your day?”* Note that its a standard user research practice that these types of questions should always be asked in their positive/negative pairings, otherwise it can seem leading if you only ask for *least* without asking for *most* as well. 
+***Superlatives:*** *“What’s the most [inefficient, frustrating, expensive, worst] part of the process?”*, *“What’s the [easiest, best, most fun, fastest] part of your day?”* 
+
+Note that its a standard user research practice that these types of questions should always be asked in their positive/negative pairings, otherwise it can seem leading if you only ask for *least* without asking for *most* as well. 
 
 **Your education:** Ask questions you think you already know the answer to and see what happens *“This may be a silly question, but…?”*, *“I never quite understood…”* this will help you curb any assumptions. 
 
@@ -151,6 +153,6 @@ Here’s a list of key phrases and approaches that should be helpful:
 
 **Magic Wand:** *“If you had a magic wand and all the control, time and unlimited budget, what would you do/change/fix?”*, *“Why did you pick...?”* 
 
-Remember that you are asking this individual for *their* truth. Even if you know, or suspect, that they are inaccurate, don’t correct them in the moment. It will instantly and dramatically change the trust dynamic between you. 
+Remember that you are asking this individual for *their* truth. Even if you know, or suspect, that they are inaccurate, don’t correct them in the moment. It will instantly change the trust dynamic between you, and you may not get that back. 
 
-If you uncover something serious, like a major security concern, the sprint team can make the decision about what to do after the interview session. Sometimes this is an item for your report (cited anonymously), in rare cases you may want another stakeholder to know about something immediately, and that’s for the team lead, or sometimes even your organization’s leadership to address.
+> If you uncover something serious, like a major security concern, the sprint team can make the decision about what to do after the interview session. Sometimes this is an item for your report (cited anonymously), in rare cases you may want another stakeholder to know about something immediately, and that’s for the team lead, or sometimes even your organization’s leadership to address.
