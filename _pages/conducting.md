@@ -19,7 +19,7 @@ subnav:
 
 Part of having a successful sprint is your team’s attitude from the start. Approach the work and the team’s relationships within the organization constructively and positively. You’ll be talking to many people and gathering as much information about the current state of the organization as possible. The meat of the sprint is two weeks of intensive work. It’s crucial to stick to the two-week time commitment to keep everyone focused and the sense of urgency high.
  
->On rare occasions, depending on team size and resource availability, it may be appropriate to extend the length of the sprint a few days (for intensive usability testing or specific travel, for instance), but it’s important to look back to the goals of the sprint and avoid scope creep—you are not here to do a full project or create solutions.
+>On rare occasions, depending on team size and resource availability, it may be appropriate to extend the length of the sprint a few days (for intensive usability testing or complicated travel, for instance), but it’s important to look back to the goals of the sprint and avoid scope creep—you are not here to do a full project or create solutions.
 
 It is also important to figure out the sprint’s north star and check in on this often. Otherwise, sprints happen so quickly that it’s easy a team can lose sight of this. North stars are often a combination of organizational goals, team goals, and USDS values. Good “north star” targets are flexible enough to accommodate new information but fixed enough to serve as guidelines for if a particular interview or investigation path is worth the team’s time. Ultimately, your north star should tell you what you are trying to accomplish with the sprint.
 
