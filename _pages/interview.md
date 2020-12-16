@@ -145,7 +145,7 @@ Here’s a list of key phrases and approaches that should be helpful:
 
 ***Superlatives:*** *“What’s the most [inefficient, frustrating, expensive, worst] part of the process?”*, *“What’s the [easiest, best, most fun, fastest] part of your day?”* 
 
-- Note that its a standard user research practice that these types of questions should always be asked in their positive/negative pairings, otherwise it can seem leading if you only ask for *least* without asking for *most* as well. 
+- Note that its a user research best practice that superlative types of questions should always be asked in their positive/negative pairings, otherwise it can seem leading if you only ask for *least* without asking for *most* as well. 
 
 **Your education:** Ask questions you think you already know the answer to and see what happens *“This may be a silly question, but…?”*, *“I never quite understood…”* this will help you curb any assumptions. 
 
