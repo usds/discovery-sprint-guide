@@ -59,4 +59,4 @@ subnav:
 * <a href="https://thenounproject.com/" target="_blank">The Noun Project</a>
 
 ### Acknowledgements
-Version One of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on a previously written internal to USDS guide. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hardwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
+The first version of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on a previously written internal to USDS guide. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hardwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS, as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
