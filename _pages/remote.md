@@ -16,19 +16,19 @@ sticky_sidenav: true
 ### Can you run a sprint entirely remotely?
 One of the core values of USDS is “go where the work is” and we have found that there really is no substitute for going to where your discovery participants are. Whenever possible, you should do this. But with the advent of a global pandemic, it may not be practical to put yourself or others in danger by traveling. We have found that while it is not the same, that it still can be valuable to run a discovery sprint if you can’t go to your stakeholders. This section has some things to consider as well as some best practices if you have to be remote.
 
-**Develop good relationships as quickly as possible with your stakeholders:**
+**Develop good relationships as quickly as possible with your stakeholders**  
 * You won’t be able to walk around and knock on doors to get a full picture of the environment the way you could if the team was in person.  Be creative with ways to connect with your sprint partners outside of the established meetings, such as taking advantage of the minutes before and after the agenda starts to make small talk.
 * There may be situations where someone there will need to act as a proxy for you, so opening lines of communication and setting clear expectations, especially about time will be key. 
 * Work with your stakeholders to pre-plan as much of the schedule in advance as you can before the kickoff.
 
-**Use available tools:**
+**Use available tools**  
 Figure out what meeting and collaboration tools are practical for the widest amount of people participating in the sprint. 
 * This may mean that you need to adapt to the tools they already use in order to prevent spending the first week doing more tech support than interviews. 
 * Most organizations will have some form of enterprise-wide tools that many of their people have access to like Webex, Zoom, Google Meet, Microsoft Teams, Skype, Slack, Mural, Miro etc. If you can work with what they already have, it will make things easier for everyone. 
 * Try and avoid situations where an interview participant needs to download software to participate in a conversation as this can be intimidating to non tech savvy folks
 * Note that government versions of these tools may sometimes be much more restrictive than you are used to, so always try to run a practice session before it counts to make sure everything works as expected.
 
-**Securing research artifacts:**
+**Secure research artifacts**  
 Going in you should have a solid understanding about who will be responsible for any recordings after you use them, where they will live and who will have access to them. 
 * It is easier and easier to record interview sessions using remote meeting tools as many of them have this functionality built in. 
 * This is especially a concern if you are screen sharing to look at a participants work, or if their work reveals their (or a third party’s) PII, PHI or other sensitive information. 

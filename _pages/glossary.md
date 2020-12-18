@@ -12,6 +12,9 @@ subnav:
 ---
 
 # Glossary and Other Resources
+
+**Affinity mapping:** This is a common user research <a href="https://methods.18f.gov/decide/affinity-mapping/">method</a> used to catalog data and group research findings into buckets and themes. 
+
 **Agency:** Most of the work that USDS does is done at federal agencies (Department of Health and Human Services, or The Social Security Administration are examples) for the purposes of this document we are using the term “organization” as a stand-in for federal agency to represent the place where the sprint is happening
 
 **Air cover:** The highest ranking person at the place where the sprint is happening. In the private sector this would be the president of the company or a C-level executive, at a Federal Agency they may be a Secretary, Administrator, Director, or a Deputy of one of those things. Sometimes also referred to as “top cover”
@@ -46,14 +49,14 @@ subnav:
 * <a href="https://www.designkit.org/" target="_blank">IDEO Field Guide to Human-Centered Design</a>
 * <a href="https://www.gv.com/sprint/" target="_blank">Google Design Sprints</a>
 * <a href="https://www.gov.uk/guidance/government-design-principles" target="_blank">Gov.UK Design Principles</a>
-* <a href="https://rosenfeldmedia.com/books/interviewing-users/details/excerpts/" target="_blank">Intervieiwng Users</a>
+* <a href="https://rosenfeldmedia.com/books/interviewing-users/details/excerpts/" target="_blank">Interviewing Users</a>
 * <a href="https://cydharrell.com/book//" target="_blank">A Civic Technologist's Practice Guide</a>
 * <a href="https://medium.com/@ErieMeyer/user-research-is-not-illegal-uncle-sam-51f2f92a280a" target="_blank">User Research in Government</a>
 * <a href="https://pra.digital.gov/" target="_blank">Paperwork Reduction Act (PRA) Guide</a>
-* <a href="https://ncoc.org/project-redesign/" target="_blank">NCOC Project Resdesign</a>
+* <a href="https://ncoc.org/project-redesign/" target="_blank">NCOC Project Redesign</a>
 * <a href="https://www.linkedin.com/pulse/government-discovery-sprint-playbook-how-lessons-learned-kathy-pham/" target="_blank">Previous Version of USDS Sprint Documentation</a>
 * <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md/" target="_blank">How VA.gov Adapted This Guide</a>
 * <a href="https://thenounproject.com/" target="_blank">The Noun Project</a>
 
-### Acknowledgements
-Version One of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on an internal to USDS guide. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hardwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
+### Acknowledgments
+The first version of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on a previously written internal to USDS guide. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hartwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS, as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!

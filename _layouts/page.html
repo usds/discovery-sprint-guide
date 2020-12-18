@@ -13,6 +13,12 @@
     <meta name="robots" content="noindex" />
     {% endif %}
 
+  <!-- Favicons ================================================== -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/img/favicon-16x16.png">
+
+  <!-- CSS ================================================== -->
     <link rel="stylesheet"
       href="/assets/css/uswds-theme.css"
       media="screen">
@@ -45,5 +51,16 @@
 
       <script src="/assets/uswds/js/uswds.min.js" async></script>
       <script src="/assets/js/app.js" async></script>
+    
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132706295-1"></script>
+      <script>
+       window.dataLayer = window.dataLayer || [];
+       function gtag(){dataLayer.push(arguments);}
+       gtag('js', new Date());
+
+       gtag('config', 'UA-132706295-1', { 'anonymize_ip': true });
+      </script>
+    
   </body>
 </html>
