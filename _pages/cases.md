@@ -8,7 +8,7 @@ sticky_sidenav: true
 
 # Case studies
 
->While this guide serves as best practices, we know that each sprint will differ depending on the organization you're engaging with and their needs. If you've participated in a discovery sprint, we'd love for your to share your story because there isn't going to be one way to do things. Fill out the <a href="https://github.com/usds/discovery-sprint-guide/issues/new?assignees=&labels=&template=----case-study-addition.md&title=" target="_blank">case study template</a> to be included.
+>While this guide serves as best practice, we know that each discovery sprint will differ depending on the organization you're engaging with and their needs. Since there isn't one way to run sprints, if you've participated in one, we'd love for your to share your story. Fill out the <a href="https://github.com/usds/discovery-sprint-guide/issues/new?assignees=&labels=&template=----case-study-addition.md&title=" target="_blank">case study template</a> to be included.
 
 <!-- ## Agency Name: Project Name
 **Problem statement**  
