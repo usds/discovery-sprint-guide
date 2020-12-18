@@ -7,40 +7,43 @@ sticky_sidenav: true
 subnav:
   - text: Other resources
     href: '#other-resources'
-  - text: Acknowledgements
-    href: '#acknowledgements'
+  - text: Acknowledgments
+    href: '#acknowledgments'
 ---
 
 # Glossary and Other Resources
 
-**Affinity mapping:** This is a common user research <a href="https://methods.18f.gov/decide/affinity-mapping/">method</a> used to catalog data and group research findings into buckets and themes. 
+**Affinity mapping:** This is a common user research method used to catalog data and group research findings into buckets and themes. See 18F's methods for <a href="https://methods.18f.gov/decide/affinity-mapping/">how to create an affinity map</a>.
 
-**Agency:** Most of the work that USDS does is done at federal agencies (Department of Health and Human Services, or The Social Security Administration are examples) for the purposes of this document we are using the term “organization” as a stand-in for federal agency to represent the place where the sprint is happening
+**Agency:** Most of the work that USDS does is done at federal agencies (Department of Health and Human Services, or The Social Security Administration are examples). For the purposes of this document we are using the term “organization” as a stand-in for federal agency to represent the place where the sprint is happening.
 
-**Air cover:** The highest ranking person at the place where the sprint is happening. In the private sector this would be the president of the company or a C-level executive, at a Federal Agency they may be a Secretary, Administrator, Director, or a Deputy of one of those things. Sometimes also referred to as “top cover”
+**Air cover:** The highest ranking person at the place where the sprint is happening. In the private sector, this would be the president of the company or a C-level executive. At a federal agency, this may be a Secretary, Administrator, Director, or a Deputy of one of those things. This is sometimes also referred to as “top cover.”
 
-**Customers:** This is a broad term used in the private sector to typically mean “someone who is paying money for the goods or services your company is providing” in most cases where the government is providing something to the public, that service is free, so we more commonly use the term “end user” 
+**Customers:** This is a broad term used in the private sector to typically mean “someone who is paying money for the goods or services your company is providing.” In most cases, where the government is providing something to the public, that service is free, so we more commonly use the term “end user.” 
 
-**Human-centered design (HCD):** An approach to problem solving that involves the human perspective in all steps of the process, ensuring that the identified solution addresses the core needs of the people who are involved. This may seem like an overly obvious statement, but we often find in our discovery work that because federal procurement has historically been requirements driven that the technology and the people are out of sync. 
+**Human-centered design (HCD):** An approach to problem solving that involves the human perspective in all steps of the process, ensuring that the identified solution addresses the core needs of the people who are involved. This may seem like an overly obvious statement, but we often find in our discovery work that, because federal procurement has historically been requirements-driven, the technology and the people are out of sync. 
 
-**North Star:** The guiding principle or goal for your sprint or the key measure of your team’s success. This should be set early in the sprint and referred back to as the work continues. 
+**North Star:** The guiding principle or goal for your sprint and the key measure of your team’s success. This should be set early in the sprint and referred back to as the work continues. 
 
-**Organization:** For the purposes of this document, we are using “organization” to broadly mean the place where the sprint is happening. At USDS this usually means an agency in the federal government. The Department of Education, the Small Business Administration, or the Department of Homeland Security are all examples of places that we have done discovery sprints. However we know not all readers will be working at the federal level, so this may mean you are working with a state, a non-profit, an NGO, or some other civic entity.
+**Organization:** For the purposes of this document, we are using “organization” to broadly mean the place where the sprint is happening. 
 
-**Paperwork Reduction Act (PRA):** A law governing how federal agencies collect information from the American public. They do a nice job of explaining it here: https://pra.digital.gov/  Sometimes this is cited as a legal barrier against talking to end users during research and interviewing stages of a sprint. It’s normal to be nervous around this topic, but there is usually a way through to be found. In fact, we have always found a path forward in the many sprints that USDS has done over the last 6 years.
+At USDS, this usually means an agency in the federal government. The Department of Education, the Small Business Administration, or the Department of Homeland Security are all examples of places that we have done discovery sprints. However we know not all readers will be working at the federal level, so this may mean you are working with a state, a non-profit, an NGO, or some other civic entity.
+{:.guide-usds}
 
-**Partners:** Individuals within an organization that work with the sprint team; they may also be considered a stakeholder of the project
+**Paperwork Reduction Act (PRA):** A law governing how federal agencies collect information from the American public. Sometimes this is cited as a legal barrier against talking to end users during the research and interviewing phases of a sprint. It’s normal to be nervous around this topic, but there is usually a way through to be found. In fact, we have always found a path forward in the many sprints that USDS has done over the years. More information about PRA can be found on the <a href="https://pra.digital.gov/">PRA guide website</a>.
+
+**Partners:** Individuals within an organization that work with the sprint team. They may also be considered a stakeholder of the project.
 
 **PII/PHI:** Personally identifiable information and personal health information
 
-**Stakeholder:** Can have several meanings:
+**Stakeholder:** This can have several meanings:
 1. The organization or agency where you are conducting the discovery sprint
-2. An individual person who is not on the sprint team, but who plays a key role or responsibility for the execution or outcome of the sprint. 
+2. An individual person who is not on the sprint team, but who plays a key role or responsibility for the execution or outcome of the sprint
 3. A primary stakeholder is usually the highest ranking individual (“air cover”) at the place where the sprint is happening
 
 **Top cover:** See “Air cover”
 
-**User or End User:** Broadly used to mean the general public or a person on the receiving end of a government service. However, in the case of a Discovery Sprint, “end user” may refer to the government employee who is using internal software in order to provide a service to a citizen. For example, if the Discovery Sprint is looking into how the interface of a veteran’s telephone hotline functions, then the call center operator will be considered a user as well as the veteran who is calling.
+**User or End User:** Broadly used to mean the general public or a person on the receiving end of a government service. In the case of a discovery sprint, “end user” may refer to the government employee who is using internal software in order to provide a service to a citizen. For example, if the discovery sprint is looking into how the interface of a veteran’s telephone hotline functions, then the call center operator would be considered a user as well as the veteran who is calling.
 
 ### Other Resources
 * <a href="https://ux-guide.18f.gov/" target="_blank">18F UX Guide</a>
@@ -59,4 +62,4 @@ subnav:
 * <a href="https://thenounproject.com/" target="_blank">The Noun Project</a>
 
 ### Acknowledgments
-The first version of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on a previously written internal to USDS guide. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hartwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS, as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
+The first version of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on a previously written guide internal to USDS. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hartwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS, as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
