@@ -37,7 +37,7 @@ include: ['_pages']
 markdown: kramdown
 
 # Build settings
-theme: uswds-jekyll
+# theme: uswds-jekyll
 plugins:
   - jekyll-feed
 
