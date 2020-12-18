@@ -38,8 +38,10 @@ markdown: kramdown
 
 # Build settings
 # theme: uswds-jekyll
+remote_theme: 18F/uswds-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
