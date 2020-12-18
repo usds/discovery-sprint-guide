@@ -52,7 +52,7 @@ The sprint team is the heart of a successful sprint. Sprint teams are necessaril
 
 Some individuals may possess several of these skills. For example, the sprint team lead might be a designer or the policy team member may also be a software engineer. The important thing is to ensure each skill is represented by at least one person. That said, we acknowledge that staffing is rarely perfect due to staff availability, so there may need to be some hard choices at this stage.
 
-At USDS we do not have any teams that exist to only run sprints. Instead we staff discovery sprints with people who are rolling off of larger or long-term projects. Doing this allows team members to focus on new work quickly. It’s also an opportunity for cross-pollination by bringing together a needed set of skills to make up a strong sprint team. We also keep in mind that if a sprint turns into a longer-term engagement with the organization, we want to staff folks to work on things that they are passionate about.
+At USDS, we do not have any teams that exist to only run sprints. Instead we staff discovery sprints with people who are rolling off of larger or long-term projects. Doing this allows team members to focus on new work quickly. It’s also an opportunity for cross-pollination by bringing together a needed set of skills to make up a strong sprint team. We also keep in mind that if a sprint turns into a longer-term engagement with the organization, we want to staff folks to work on things that they are passionate about.
 {:.guide-usds}
 
 ### Team cohesion
@@ -102,12 +102,12 @@ One of the core values of USDS is, “Go where the work is.” We have found tha
 
 - **Network / phone:** Work with the organization to determine how to get internet access. Additionally, some buildings have limited or no cell coverage so know ahead of time how the team will coordinate meetings.
 
-Most federal agencies will not allow outside equipment to connect to their networks so tethering to phones or wifi hotspots might need to be employed. 
+We've found that most federal agencies will not allow outside equipment to connect to their networks so tethering to phones or wifi hotspots might need to be employed. 
 {:.guide-usds}
 
 - **Clearance:** Obtain any NDAs the team needs to sign in order to be effective and see all the work. This is often negotiable but planning for this beforehand allows the team to avoid having to make concessions about the scope of the sprint or getting held up before they can even start.
 
-A few agencies require security clearances before the team can start so the sprint team lead should work with the agency to determine what's needed.
+Within government, a few agencies require security clearances before the team can start. The sprint team lead should work with the agency to determine what's needed.
 {:.guide-usds}
 
 - **Data / systems:** Collect any available background materials, technical diagrams, problem statements, and other materials relevant to the content of the sprint and distribute them to the sprint team ahead of time. Request access to potential systems and tools the organization uses that the sprint team might want to investigate.
@@ -133,5 +133,5 @@ Here is an example agenda for the sprint kick-off:
 - Q&A from the sprint team to the organization
 - Q&A from the organization to the sprint team
 - What the organization should expect at the end of the sprint
-- Note: We recommend setting the meeting date for your readout at the end of the sprint during the kick-off while you have the key stakeholders in the room. That way, scope creep is less likely.
+- **Note:** We recommend setting the meeting date for your readout at the end of the sprint during the kick-off while you have the key stakeholders in the room. That way, scope creep is less likely.
 
