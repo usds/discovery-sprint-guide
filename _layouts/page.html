@@ -7,12 +7,10 @@
 
     <title>{{ page.title }}</title>
 
-    <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
+    <meta name="description" content='{{site.description}}'>
 
-    {% if jekyll.environment == 'staging' %}
-    <meta name="robots" content="noindex" />
-    {% endif %}
-
+    <meta name="robots" content="noindex, nofollow" />
+    
   <!-- Favicons ================================================== -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/img/favicon-32x32.png">
@@ -59,7 +57,7 @@
        function gtag(){dataLayer.push(arguments);}
        gtag('js', new Date());
 
-       gtag('config', 'UA-132706295-1', { 'anonymize_ip': true });
+       gtag('config', 'G-PJ95MQHLS8', { 'anonymize_ip': true });
       </script>
     
   </body>
