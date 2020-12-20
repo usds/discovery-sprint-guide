@@ -1,7 +1,7 @@
 # _data/navigation.yml
 
 primary:
-  - text: Home
+  - text: Sprint Guide
     href: /
     name: guide
   - text: Interview Guide
