@@ -29,5 +29,5 @@ If no basic authentication is desired, make sure `Staticfile.auth` is not presen
 1. Login to cloud.gov: `cf login -a api.fr.cloud.gov --sso`
 1. Deploy: `cf push`
 
-## Contributor / Acknowledgments
+## Contributors / Acknowledgments
 The first version of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on a previously written guide internal to USDS. We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hartwig, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS, as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
