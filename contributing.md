@@ -1,3 +1,5 @@
+<!-- Using 18F's as a starting point to ours; they've done a great job with their documentation, paving the way for others to follow. -->
+
 # Discovery Sprint Guide Contribution Guidelines
 We're glad you're thinking about contributing to our discovery sprint guide!
 
