@@ -1,4 +1,4 @@
-## Welcome
+# Discovery Sprint Guide Contribution Guidelines
 We're glad you're thinking about contributing to our discovery sprint guide!
 
 No one's perfect — especially not us. If you think our guide got something wrong, please let us know. If you're unsure about anything, ask us — or <a href="https://github.com/usds/discovery-sprint-guide/issues">submit the issue</a> or <a href="https://github.com/usds/discovery-sprint-guide/pulls">pull request</a> anyway. We love all friendly contributions, and we welcome your ideas about how to keep our guide updated, friendly, and accessible.
