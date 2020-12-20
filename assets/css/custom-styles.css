@@ -11,6 +11,16 @@ USWDS THEME CUSTOM STYLES
 ----------------------------------------
 */
 
+
+@media (min-width: 40em) {
+  .usa-banner__button::after {
+    background: 0 0;
+    background-color: #005ea2;
+    -webkit-mask: url("../uswds/img/angle-arrow-down-primary.svg") no-repeat center/1.3128205128ex .8ex;
+  }
+}
+
+
 /* Side Navigation */
 .usa-layout-docs-sidenav { 
   order: 2; 
