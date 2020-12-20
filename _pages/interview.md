@@ -129,7 +129,7 @@ Not every question has to sound like a formal interview question. Ask open-ended
 
 Here’s a list of key phrases and approaches that should be helpful:
 
-**Their Education:** Explore their training and background in the topic *“How did you learn about…?”*, *“What got you interested in…”*, *“Who taught you…?”*, *“How do you know/why do you know...?”* 
+**Their education:** Explore their training and background in the topic *“How did you learn about…?”*, *“What got you interested in…”*, *“Who taught you…?”*, *“How do you know/why do you know...?”* 
 
 **History:** *“Is this the way you have always done...?”*, *“How or why did it change?”*, *“What did you do before…?”*, *“How did this issue get identified?”*, *“What do you think about that now?”*, *“How have you/others tried to solve this problem in the past?”*
 
@@ -147,7 +147,7 @@ Here’s a list of key phrases and approaches that should be helpful:
 
 **Active listening:** *“Just to make sure I understand that…” , “What I heard you say is…”* This helps an interviewee feel heard, and makes sure you are representing them, or what you think they said. 
 
-**Magic Wand:** *“If you had a magic wand and all the control, time and unlimited budget, what would you do/change/fix?”*, *“Why did you pick...?”* 
+**Magic wand:** *“If you had a magic wand and all the control, time and unlimited budget, what would you do/change/fix?”*, *“Why did you pick...?”* 
 
 Remember that you are asking this individual for *their* truth. Even if you know, or suspect, that they are inaccurate, don’t correct them in the moment. It will instantly change the trust dynamic between you, and you may not get that back. 
 
