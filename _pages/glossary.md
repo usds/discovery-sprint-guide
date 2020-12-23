@@ -63,4 +63,4 @@ At USDS, this usually means an agency in the federal government. The Department 
 ### Acknowledgments
 The first version of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on a previously written guide internal to USDS. 
 
-We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin, Eddie Hartwig, Rachel Sauter, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS, as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
+We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin West, Eddie Hartwig, Rachel Sauter, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS, as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
