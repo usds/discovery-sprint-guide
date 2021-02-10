@@ -45,7 +45,7 @@ See the <a href="/writing/">writing guide</a> for in-depth details on writing th
 A fresh pair of eyes for a final edit is always recommended. Make sure that members of your leadership team review the final drafts of deliverables before they are considered "done" or ready to deliver. This can also include a review from the public relations, policy, or legal teams from your organization. Lastly, it's helpful to have a plain language expert review the report to ensure it's easy to read and understand.
 
 At USDS, we have occasionally run into situations where a sprint report can have unintended audiences or consequences. We now make it a best practice to loop in reviewers before we deliver the report to stakeholders.
-{.guide-usds}
+{:.guide-usds}
 
 ### Readout and presentation to stakeholders
 Ideally the sprint team lead should have pre-scheduled the executive stakeholders for a readout meeting date as close to 3 or 4 weeks out from the kick-off date as possible. This will ensure that momentum stays high during the sprint and that the sprint team is able to deliver their findings while everything is top of mind. 
