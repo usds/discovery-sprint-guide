@@ -47,7 +47,7 @@ USWDS THEME CUSTOM STYLES
   }
 
   .usa-footer__logo-img {
-    max-width: 6rem;
+    max-width: 8rem;
   }
 }
 
@@ -79,7 +79,7 @@ blockquote p {
 }
 
 /* Footer styles */
-.usa-footer__logo-img { max-width: 6rem; }
+.usa-footer__logo-img { max-width: 8rem; }
 
 .usa-footer__secondary-section { padding-bottom: 2rem ; padding-top: 2rem ; background-color: #0071bc; }
 
