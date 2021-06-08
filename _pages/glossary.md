@@ -61,6 +61,6 @@ At USDS, this usually means an agency in the federal government. The Department 
 * <a href="https://cydharrell.com/book/" target="_blank">Book: A Civic Technologist's Practice Guide by Cyd Harrell</a>
 
 ### Acknowledgments
-The first version of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on a previously written guide internal to USDS. 
+The first version of this public guide was authored by Jenn Noinaj and Kat Jurick and is based on a previously written guide internal to USDS, written in collaboration with GSA by co-editors Kara DeFrias and Kathy Pham with contributions from Eric Benson, Matt Collier, Evan Cook, Lisa Gelobter, Ginny Hunt, Brian Lefler, Jeff Maher, Erie Meyer, David Nesting, Chuck Rossi, Kim Rachmeler, Mollie Ruskin, Jess Teal, Albert Wong, and Charles Worthington. (edited) 
 
 We would like to thank the following folks for their feedback, edits and support: Kathy Pham, Mark Lerner, David Nesting, Chris Given, Hank Knaack, Shannon Sartin West, Eddie Hartwig, Rachel Sauter, Jeff Barrett, Shelly Smith, Drew Gardner and Lisa Chung from USDS, as well as Melissa Braxton and Julie Strothman from GSA for their timely advice. Thank you!
