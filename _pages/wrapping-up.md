@@ -19,7 +19,7 @@ subnav:
 Once you have delivered a final report to your stakeholders, there still may be some things that need to be done to wrap up. Because of the transitional nature of project work, acknowledge and prepare for the fact that if further work is done coming out of the sprint, it may not be the individuals who were on the sprint team who staff any next step efforts. Make time to do some or all of the following activities: 
 
 ### Team retrospective
-A team retrospecitive gives you a chance to reflect on the work that you did. Recruit a facilitaor who wasn't involved in the sprint to run the retro. The entire discovery sprint team should participate. The retro should be blameless and give everyone a chance to have a voice in reflecting on the sprint. The session usually takes 90-120 minutes and is split into two parts:
+A team retrospecitive gives you a chance to reflect on the work that you did. Recruit a facilitator who wasn't involved in the sprint to run the retro. The entire discovery sprint team should participate. The retro should be blameless and give everyone a chance to have a voice in reflecting on the sprint. The session usually takes 90-120 minutes and is split into two parts:
    - **Part One:** Spend the first hour recapping and telling the story of the sprint from beginning to end
    - **Part Two:** Discuss what went well, what didn’t go well, and any lessons you have for future sprints
    - **End by answering:** Should our involvement with this organization continue? In what way?
