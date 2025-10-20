@@ -17,7 +17,7 @@ subnav:
 ---
 
 # About this guide
-The U.S. Digital Service (USDS) works on technology improvement projects impacting people served by the United States government. Since 2014, USDS has partnered with dozens of federal and state agencies to build more than 160 successful digital products. In our initial interactions with a government agency, we will often run what we call a Discovery Sprint. 
+The U.S. DOGE Service (USDS) works on technology improvement projects impacting people served by the United States government. Since 2014, USDS has partnered with dozens of federal and state agencies to build more than 160 successful digital products. In our initial interactions with a government agency, we will often run what we call a Discovery Sprint. 
 
 This guide intends to explain the discovery sprint process and share best practices to help teams adapt and run their own discovery sprints.
 
