@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: US Digital Service Discovery Sprint Guide
+title: US DOGE Service Discovery Sprint Guide
 email: infrastructure@usds.gov
 
 description: >- # this means to ignore newlines until "baseurl:"
@@ -28,7 +28,7 @@ url: "https://sprint.usds.gov" # the base hostname & protocol for your site, e.g
 twitter_username: usdsgov
 github_username:  usdsgov
 
-author: U.S. Digital Service
+author: U.S. DOGE Service
 repository: usds/discovery-sprint-guide
 github_url: https://github.com/usds/discovery-sprint-guide/
 
